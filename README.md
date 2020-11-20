@@ -8,9 +8,9 @@ you can contact me via <a href="mailto:aboutdavid@pm.me">email</a> or via <a hre
 A Node.js Powered Search engine built on Glitch! Uses parts of Chris Bongers's country search example.<br></li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (2:56 pm):<br>
-Add punctuation<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/1b47ae7c468aa043a425e342f801030d7392726b">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (3:04 pm):<br>
+Create gitme-onpush.yml<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/7649a159e9ce7ffcb99248239be2e8940f5dfa21">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
