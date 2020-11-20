@@ -54,7 +54,7 @@ require("./run.js").command("git", [
   "user.name",
   `${process.env.NAME}`
 ]);
-require("./run.js").command("git", ["add", "README.md"]);
+require("./run.js").command("git", ["add", "."]);
 require("./run.js").command("git", [
   "commit",
   "-m",
