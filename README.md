@@ -1,16 +1,16 @@
 <h1>hello 👋,</h1>
 <p>hello, i’m <b>David.</b> i mainly design websites using <strong>JAMstack</strong> and <strong>Bulma.</strong>
 a lot of my code is <strong>open-source</strong> which is usually located on either <strong>github</strong> or <strong>glitch</strong>.
-you can contact me via <a href="mailto:aboutdavid@pm.me">email</a> or via <a href="https://twitter.com/@UpscaleDavid">twitter</a></p>
+you can contact me via <a href="mailto:aboutdavid@pm.me">email</a> or via <a href="https://twitter.com/@UpscaleDavid">twitter</a>.</p>
 <h3>recent projects</h3>
 <ul>
 <li><a href="https://searchit.glitch.me">SearchIt</a>:<br>
 A Node.js Powered Search engine built on Glitch! Uses parts of Chris Bongers's country search example.<br></li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (2:54 pm):<br>
-Update the bio<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/991dd3d9b388b2c46a31d31ca3ae7d1a4571a865">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (2:56 pm):<br>
+Add punctuation<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/1b47ae7c468aa043a425e342f801030d7392726b">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
