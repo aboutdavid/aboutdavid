@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (3:23 pm):<br>
-Add date<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/5e09cd87a9cfea0b4a3d08eadcd2d28dbca43a8e">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (3:24 pm):<br>
+Add last updated on<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/94cf50d20e9b44ca8b6eacac2750759993b5ee87">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -86,3 +86,5 @@ Stars: 1 • Forks: 0 • HTML</p>
 <p><a href="https://notebook.aboutdavid.me/entries/using-glitch-to-develop-apps-with-their-real-time-ide-editor">Using Glitch to develop apps with their real time IDE editor.</a></p>
 </li>
 </ul>
+<p><br><br>
+Last updated on:</p>
