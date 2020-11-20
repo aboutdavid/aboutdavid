@@ -2,8 +2,8 @@
 i'm **David**
 
 ### latest commit:
-{{ commit.repo }} @ {{ commit.time }}:
-{{ commit.message }}
+{{ commit.repo }} @ {{ commit.time }}:<br>
+{{ commit.message }}<br>
 [view this commit]({{ commit.url }})
 
 ### things i use to code
