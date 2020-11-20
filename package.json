@@ -1,0 +1,30 @@
+{
+  "name": "gitme",
+  "version": "1.0.0",
+  "description": "Awesome README.md generator for GitHub built with GitHub Actions",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo \"No start specified\""
+  },
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "markdown-it": "^12.0.1",
+    "nunjucks": "^3.2.2",
+    "@actions/core": "^1.2.6"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/gitme"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "github",
+    "actions",
+    "markdown",
+    "nunjucks",
+    "ejs"
+  ]
+}
