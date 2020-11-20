@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (4:26 pm):<br>
-Fix timezone<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/c185df2934490395029d3e6dcd1695ec9ea39410">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (4:53 pm):<br>
+Add one more line break<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/a9ee58f4eb593e411ae51c339f39149016dec330">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -67,7 +67,7 @@ Stars: 1 • Forks: 0 • HTML</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-atom-editor-48.png?v=1605844607826" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-notepad%2B%2B-48.png?v=1605844565012" align="left" width="26px">
-<br>
+<br><br>
 <h3>📰 recent blog posts:</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • HTML</p>
 </li>
 </ul>
 <p><br><br>
-Last updated on: November 20, 2020 at 11:43 AM</p>
+Last updated on: November 20, 2020 at 11:53 AM</p>
