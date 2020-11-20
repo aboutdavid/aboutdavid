@@ -10,7 +10,8 @@
     "ejs": "^3.1.5",
     "markdown-it": "^12.0.1",
     "nunjucks": "^3.2.2",
-    "@actions/core": "^1.2.6"
+    "@actions/core": "^1.2.6",
+    "sync-request": "^6.1.0"
   },
   "engines": {
     "node": "12.x"
