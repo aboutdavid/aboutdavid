@@ -1,9 +1,14 @@
 <h1>hello 👋,</h1>
 <p>i’m <strong>David</strong></p>
+<h3>recent projects</h3>
+<ul>
+<li><a href="https://searchit.glitch.me">SearchIt</a>:<br>
+A Node.js Powered Search engine built on Glitch! Uses parts of Chris Bongers's country search example.<br></li>
+</ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (2:11 pm):<br>
-Add Projects API<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/51e3a0f5316cce5fe2604bd6e7e49e12370b3e77">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (2:18 pm):<br>
+Add recent projects<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/1bdf7c558049f9f206797bae45ad847b3b881f44">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
