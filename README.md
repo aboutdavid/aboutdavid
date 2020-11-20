@@ -1,9 +1,42 @@
 <h1>hello 👋,</h1>
 <p>i’m <strong>David</strong></p>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (5:21 am):<br>
-fetch repos from vercel (now)<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/7862e72c65e023e4087d1a372fd13e6f46745700">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (5:26 am):<br>
+Add line break<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/781fb489001b1419e0ddb0462517364ee518d20f">view this commit</a></p>
+<h3>recent github repos</h3>
+<ul>
+<li>
+<p><a href="https://github.com/aboutDavid/rocket11ty">rocket11ty</a>:<br>
+A simple halfmoon 11ty blog based on <a href="https://github.com/11ty/eleventy-base-blog">https://github.com/11ty/eleventy-base-blog</a>.<br>
+Stars: 5 • Forks: 1 • HTML</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/pastedown">pastedown</a>:<br>
+A simple Markdown pastebin written in PHP<br>
+Stars: 1 • Forks: 0 • PHP</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/honeypot">honeypot</a>:<br>
+A simple open source Honeypot for catching bad web bots.<br>
+Stars: 3 • Forks: 0 • JavaScript</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/test-repo">test-repo</a>:<br>
+Just a simple test<br>
+Stars: 1 • Forks: 0Unknown</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/gitme">gitme</a>:<br>
+A simple README generator for your profile or repo.  You can use nunjucks and ejs!<br>
+Stars: 0 • Forks: 0 • JavaScript</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/blog">blog</a>:<br>
+This blog is somewhat of a archive now. Please see URL for new blog.<br>
+Stars: 1 • Forks: 0 • HTML</p>
+</li>
+</ul>
 <h3>things i use to code</h3>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
