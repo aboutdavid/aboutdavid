@@ -1,5 +1,9 @@
 <h1>hello 👋,</h1>
 <p>i’m <strong>David</strong></p>
+<h3>latest commit:</h3>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (5:16 am):
+–all, not -a when using git add.
+<a href="https://github.com/aboutDavid/aboutdavid/commit/27d5d0eb9cd445a851a8cff7badf56877b19bfdd">view this commit</a></p>
 <h3>things i use to code</h3>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
