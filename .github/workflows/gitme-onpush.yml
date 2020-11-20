@@ -1,7 +1,7 @@
 name: gitme
 on: [push]
 jobs:
-  gitme-build:
+  gitme-build-push:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
