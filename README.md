@@ -1,9 +1,9 @@
 <h1>hello 👋,</h1>
 <p>i’m <strong>David</strong></p>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (5:36 am):<br>
-Move Bullet Point.<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/e222c86e702e3831f4c62895bdf8c3a5c475fdb7">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (2:11 pm):<br>
+Add Projects API<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/51e3a0f5316cce5fe2604bd6e7e49e12370b3e77">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
