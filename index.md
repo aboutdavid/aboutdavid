@@ -1,5 +1,7 @@
 # hello 👋,
-i'm **David**
+hello, i'm <b>David.</b> i mainly design websites using **JAMstack** and **Bulma.** 
+a lot of my code is **open-source** which is usually located on either **github** or **glitch**.
+you can contact me via [email](mailto:aboutdavid@pm.me) or via [twitter](https://twitter.com/@UpscaleDavid)
 
 ### recent projects
 {% for project in projects %}
@@ -24,6 +26,12 @@ Stars: {{ repo.stargazers }} • Forks: {{ repo.forks }} • {% if repo.primaryL
 <img src="{{ icons.css }}" align="left" width="26px">
 <img src="{{ icons.javascript }}" align="left" width="26px">
 <img src="{{ icons.nodejs }}" align="left" width="26px">
+<img src="{{ icons.php }}" align="left" width="26px">
+<img src="{{ icons.sass }}" align="left" width="26px">
+<img src="{{ icons.github }}" align="left" width="26px">
+<img src="{{ icons.git }}" align="left" width="26px">
+<img src="{{ icons.gitlab }}" align="left" width="26px">
+<img src="{{ icons.npm }}" align="left" width="26px">
 <img src="{{ icons.atomeditor }}" align="left" width="26px">
 <img src="{{ icons.notepadplusplus }}" align="left" width="26px">
 <br>
