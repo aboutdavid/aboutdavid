@@ -29,5 +29,15 @@ module.exports = {
   atomeditor:
     "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-atom-editor-48.png?v=1605844607826",
   react:
-    "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-react-16.png?v=1605844689577"
+    "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-react-16.png?v=1605844689577",
+  sass:
+    "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-sass-48.png?v=1605883230100",
+  gitlab:
+    "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-gitlab-48.png?v=1605883246676",
+  git:
+    "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-git-48.png?v=1605883264836",
+  github:
+    "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-github-48.png?v=1605883284150",
+  npm:
+    "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587"
 };
