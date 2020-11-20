@@ -1,9 +1,9 @@
 <h1>hello 👋,</h1>
 <p>i’m <strong>David</strong></p>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (5:26 am):<br>
-Add line break<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/781fb489001b1419e0ddb0462517364ee518d20f">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (5:36 am):<br>
+Move Bullet Point.<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/e222c86e702e3831f4c62895bdf8c3a5c475fdb7">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -24,7 +24,7 @@ Stars: 3 • Forks: 0 • JavaScript</p>
 <li>
 <p><a href="https://github.com/aboutDavid/test-repo">test-repo</a>:<br>
 Just a simple test<br>
-Stars: 1 • Forks: 0Unknown</p>
+Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/gitme">gitme</a>:<br>
