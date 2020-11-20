@@ -9,7 +9,22 @@ var res = request(
     }
   }
 );
-
+function time(date) {
+  var date = new Date(date);
+  var month = date.toLocaleString("default", { month: "long" });
+  var day = date.getDate();
+  var year = date.getFullYear();
+  var hour = date.getHours() + 1;
+  var min = date.getMinutes() + 1;
+  var hours = date.getHours();
+  var minutes = date.getMinutes();
+  var ampm = hours >= 12 ? "pm" : "am";
+  hours = hours % 12;
+  hours = hours ? hours : 12; // the hour '0' should be '12'
+  minutes = minutes < 10 ? "0" + minutes : minutes;
+  var strTime = hours + ":" + minutes + " " + ampm;
+  return `${month} ${day}, ${year} (${strTime})`;
+}
 const activities = JSON.parse(res.getBody());
 
 for (let i = 0; i < activities.length; i++) {
@@ -20,7 +35,7 @@ for (let i = 0; i < activities.length; i++) {
     module.exports = {
       message: commit.message,
       url: `https://github.com/${activities[i].repo.name}/commit/${commit.sha}`,
-      time: activities[i].created_at,
+      time: time(activities[i].created_at),
       repo: activities[i].repo.name
     };
     break;

@@ -2,8 +2,9 @@
 i'm **David**
 
 ### latest commit:
-{{ commit.repo }}:
+{{ commit.repo }} @ {{ commit.time }}:
 {{ commit.message }}
+[view this commit]({{ commit.url }})
 
 ### things i use to code
 <img src="{{ icons.html }}" align="left" width="26px">
