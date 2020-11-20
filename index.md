@@ -41,4 +41,4 @@ Stars: {{ repo.stargazers }} • Forks: {{ repo.forks }} • {% if repo.primaryL
 - [{{ post.title | safe }}]({{ post.url }})
 {% endfor %}
 <br><br>
-Last updated on: {{ time.dateandtime }}
+Last updated on: {{ date.dateandtime }}
