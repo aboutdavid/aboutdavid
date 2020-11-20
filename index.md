@@ -8,7 +8,7 @@ i'm **David**
 
 ### recent github repos
 {% for repo in repos %}
-- [{{ repo.name }}]({{ repo.url }}):
+- [{{ repo.name }}]({{ repo.url }}):<br>
 {{ repo.description }}<br>
 Stars: {{ repo.stargazers }} • Forks: {{ repo.forks }}{% if repo.primaryLanguage %} • {{ repo.primaryLanguage.name }}{% else %}Unknown{% endif%}
 {% endfor %}
