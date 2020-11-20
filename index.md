@@ -34,7 +34,7 @@ Stars: {{ repo.stargazers }} • Forks: {{ repo.forks }} • {% if repo.primaryL
 <img src="{{ icons.npm }}" align="left" width="26px">
 <img src="{{ icons.atomeditor }}" align="left" width="26px">
 <img src="{{ icons.notepadplusplus }}" align="left" width="26px">
-<br>
+<br><br>
 
 ### 📰 recent blog posts:
 {% for post in posts %}
