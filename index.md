@@ -1,6 +1,10 @@
 # hello 👋,
 i'm **David**
 
+### latest commit:
+{{ commit.repo }}:
+{{ commit.message }}
+
 ### things i use to code
 <img src="{{ icons.html }}" align="left" width="26px">
 <img src="{{ icons.css }}" align="left" width="26px">
