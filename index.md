@@ -1,6 +1,12 @@
 # hello 👋,
 i'm **David**
 
+### recent projects
+{% for project in projects %}
+- [{{ project.name }}]({{ project.url }}):<br>
+{{ project.description }}<br>
+{% endfor %}
+
 ### latest commit:
 {{ commit.repo }} @ {{ commit.time }}:<br>
 {{ commit.message }}<br>
