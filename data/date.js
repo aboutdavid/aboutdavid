@@ -1,5 +1,5 @@
 var obj = {}
-    var date = new Date(date);
+    var date = new Date();
     var month = date.toLocaleString("default", { month: "long" });
     var day = date.getDate();
     var year = date.getFullYear();
