@@ -12,7 +12,7 @@ jobs:
       - run: node index.js
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO: aboutDavid/gitme
+          REPO: aboutDavid/aboutdavid
           BRANCH: main
           EMAIL: 62346025+aboutDavid@users.noreply.github.com
           NAME: aboutDavid
