@@ -9,4 +9,4 @@ var res = request(
   }
 );
 
-module.exports = JSON.parse(res.getBody()).items.slice(0,3)
+module.exports = JSON.parse(res.getBody()).items.slice(0,5)

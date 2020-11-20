@@ -12,5 +12,5 @@ i'm **David**
 
 ### 📰 recent blog posts:
 {% for post in posts %}
-- [{{ post.title }}]({{ post.url }})
+- [{{ post.title | safe }}]({{ post.url }})
 {% endfor %}
