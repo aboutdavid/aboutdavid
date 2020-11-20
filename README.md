@@ -1,14 +1,16 @@
 <h1>hello 👋,</h1>
-<p>i’m <strong>David</strong></p>
+<p>hello, i’m <b>David.</b> i mainly design websites using <strong>JAMstack</strong> and <strong>Bulma.</strong>
+a lot of my code is <strong>open-source</strong> which is usually located on either <strong>github</strong> or <strong>glitch</strong>.
+you can contact me via <a href="mailto:aboutdavid@pm.me">email</a> or via <a href="https://twitter.com/@UpscaleDavid">twitter</a></p>
 <h3>recent projects</h3>
 <ul>
 <li><a href="https://searchit.glitch.me">SearchIt</a>:<br>
 A Node.js Powered Search engine built on Glitch! Uses parts of Chris Bongers's country search example.<br></li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (2:42 pm):<br>
-Add more Icons.<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/78ea9c432301c48e770847eaf22edd10188222ce">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (2:54 pm):<br>
+Update the bio<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/991dd3d9b388b2c46a31d31ca3ae7d1a4571a865">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -47,6 +49,12 @@ Stars: 1 • Forks: 0 • HTML</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-javascript-48.png?v=1605844445485" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-nodejs-48.png?v=1605830531481" align="left" width="26px">
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-php-logo-16.png?v=1605839056865" align="left" width="26px">
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-sass-48.png?v=1605883230100" align="left" width="26px">
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-github-48.png?v=1605883284150" align="left" width="26px">
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-git-48.png?v=1605883264836" align="left" width="26px">
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-gitlab-48.png?v=1605883246676" align="left" width="26px">
+<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-atom-editor-48.png?v=1605844607826" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-notepad%2B%2B-48.png?v=1605844565012" align="left" width="26px">
 <br>
