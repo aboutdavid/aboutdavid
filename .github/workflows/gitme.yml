@@ -1,5 +1,8 @@
 name: gitme
-on: [push]
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/5 * * * *'
 jobs:
   gitme-build:
     runs-on: ubuntu-latest
