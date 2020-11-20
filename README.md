@@ -14,9 +14,15 @@
 <p><a href="https://notebook.aboutdavid.me/entries/how-to-make-a-blog-with-11ty-and-ghostcms">How to make a blog with 11ty and GhostCMS</a></p>
 </li>
 <li>
-<p><a href="https://notebook.aboutdavid.me/entries/ive-decided-to-move-my-markdown-file-based-system-to-ghostcms">I&amp;#39;ve decided to move my markdown file based system to GhostCMS</a></p>
+<p><a href="https://notebook.aboutdavid.me/entries/ive-decided-to-move-my-markdown-file-based-system-to-ghostcms">I've decided to move my markdown file based system to GhostCMS</a></p>
 </li>
 <li>
 <p><a href="https://notebook.aboutdavid.me/entries/i-made-my-own-blog-using-11ty-11ty-base-blog-and-bulma">I made my own blog using 11ty, 11ty base blog, and Bulma.</a></p>
+</li>
+<li>
+<p><a href="https://notebook.aboutdavid.me/entries/cheat-sheet-for-webpacks-config-rules">Cheat sheet for webpack's config rules</a></p>
+</li>
+<li>
+<p><a href="https://notebook.aboutdavid.me/entries/using-glitch-to-develop-apps-with-their-real-time-ide-editor">Using Glitch to develop apps with their real time IDE editor.</a></p>
 </li>
 </ul>
