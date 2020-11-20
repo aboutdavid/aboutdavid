@@ -4,13 +4,23 @@ a lot of my code is <strong>open-source</strong> which is usually located on eit
 you can contact me via <a href="mailto:aboutdavid@pm.me">email</a> or via <a href="https://twitter.com/@UpscaleDavid">twitter</a>.</p>
 <h3>recent projects</h3>
 <ul>
-<li><a href="https://searchit.glitch.me">SearchIt</a>:<br>
-A Node.js Powered Search engine built on Glitch! Uses parts of Chris Bongers's country search example.<br></li>
+<li>
+<p><a href="https://searchit.glitch.me">SearchIt</a>:<br>
+A Node.js Powered Search engine built on Glitch! Uses parts of Chris Bongers's country search example.<br></p>
+</li>
+<li>
+<p><a href="https://writepad.glitch.me/">WritePad</a>:<br>
+A peer-to-peer notepad that allows you to share rich-text notes.<br></p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/gitme">GitME</a>:<br>
+A simple README generator for your profile or repo. You can use it with nunjucks and ejs!<br></p>
+</li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (3:04 pm):<br>
-Create gitme-onpush.yml<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/7649a159e9ce7ffcb99248239be2e8940f5dfa21">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (3:17 pm):<br>
+Update gitme-scheduled.yml<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/4ebcc42d939d598b5c6ff6e57d9a96273b5c9ba3">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
