@@ -1,7 +1,7 @@
 # hello 👋,
 hello, i'm <b>David.</b> i mainly design websites using **JAMstack** and **Bulma.** 
 a lot of my code is **open-source** which is usually located on either **github** or **glitch**.
-you can contact me via [email](mailto:aboutdavid@pm.me) or via [twitter](https://twitter.com/@UpscaleDavid)
+you can contact me via [email](mailto:aboutdavid@pm.me) or via [twitter](https://twitter.com/@UpscaleDavid).
 
 ### recent projects
 {% for project in projects %}
