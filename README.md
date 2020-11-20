@@ -6,9 +6,9 @@
 A Node.js Powered Search engine built on Glitch! Uses parts of Chris Bongers's country search example.<br></li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 20, 2020 (2:18 pm):<br>
-Add recent projects<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/1bdf7c558049f9f206797bae45ad847b3b881f44">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ November 20, 2020 (2:42 pm):<br>
+Add more Icons.<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/78ea9c432301c48e770847eaf22edd10188222ce">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
