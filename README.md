@@ -46,7 +46,7 @@ Stars: 1 • Forks: 0 • Unknown</p>
 <li>
 <p><a href="https://github.com/aboutDavid/gitme">gitme</a>:<br>
 A simple README generator for your profile or repo.  You can use nunjucks and ejs!<br>
-Stars: 1 • Forks: 0 • JavaScript</p>
+Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/blog">blog</a>:<br>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: November 21, 2020 at 3:30 AM (EST)
+Last updated on: November 21, 2020 at 3:37 AM (EST)
