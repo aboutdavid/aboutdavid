@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ November 21, 2020 (9:22 pm):<br>
-delete so action work again<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/f520ccd1652cb68d6e43dcfeafdc1b09579275f2">view this commit</a></p>
+<p>aboutDavid/gitme @ November 22, 2020 (1:44 am):<br>
+fix actions<br>
+<a href="https://github.com/aboutDavid/gitme/commit/b97903be9139631317b57e4af02785182e0007cc">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: November 21, 2020 at 8:35 PM (EST)
+Last updated on: November 21, 2020 at 8:45 PM (EST)
