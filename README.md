@@ -71,6 +71,9 @@ Stars: 1 • Forks: 0 • HTML</p>
 <h3>📰 recent blog posts:</h3>
 <ul>
 <li>
+<p><a href="https://notebook.aboutdavid.me/entries/updating-my-github-profile-readme">Updating my GitHub profile README</a></p>
+</li>
+<li>
 <p><a href="https://notebook.aboutdavid.me/entries/how-to-make-a-blog-with-11ty-and-ghostcms">How to make a blog with 11ty and GhostCMS</a></p>
 </li>
 <li>
@@ -82,9 +85,6 @@ Stars: 1 • Forks: 0 • HTML</p>
 <li>
 <p><a href="https://notebook.aboutdavid.me/entries/cheat-sheet-for-webpacks-config-rules">Cheat sheet for webpack's config rules</a></p>
 </li>
-<li>
-<p><a href="https://notebook.aboutdavid.me/entries/using-glitch-to-develop-apps-with-their-real-time-ide-editor">Using Glitch to develop apps with their real time IDE editor.</a></p>
-</li>
 </ul>
 <br>
-Last updated on: November 21, 2020 at 10:29 PM (EST)
+Last updated on: November 21, 2020 at 10:42 PM (EST)
