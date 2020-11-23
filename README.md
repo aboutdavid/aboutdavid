@@ -18,9 +18,11 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/awesomeprojects @ November 23, 2020 (6:49 pm):<br>
-update readme and add stuff to api<br>
-<a href="https://github.com/aboutDavid/awesomeprojects/commit/787af54d7f824ddc2836b7b29164ef664467bf8b">view this commit</a></p>
+<p>aboutDavid/awesomeprojects @ November 23, 2020 (8:10 pm):<br>
+😎💘 Checkpoint
+./README.md:8045597/36
+./_data/projects.js:8045597/2978<br>
+<a href="https://github.com/aboutDavid/awesomeprojects/commit/1c1250e8bfb6cdbde92aa59c9cc74dd6d83cd7a9">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +89,4 @@ Stars: 1 • Forks: 0 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: November 23, 2020 at 3:03 PM (EST)
+Last updated on: November 23, 2020 at 3:19 PM (EST)
