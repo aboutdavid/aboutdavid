@@ -26,6 +26,11 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 <h3>recent github repos</h3>
 <ul>
 <li>
+<p><a href="https://github.com/aboutDavid/rocket11ty">rocket11ty</a>:<br>
+A simple halfmoon 11ty blog based on <a href="https://github.com/11ty/eleventy-base-blog">https://github.com/11ty/eleventy-base-blog</a>.<br>
+Stars: 5 • Forks: 1 • HTML</p>
+</li>
+<li>
 <p><a href="https://github.com/aboutDavid/pastedown">pastedown</a>:<br>
 A simple Markdown pastebin written in PHP<br>
 Stars: 1 • Forks: 0 • PHP</p>
@@ -41,19 +46,14 @@ Just a simple test<br>
 Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutDavid/awesomeprojects">awesomeprojects</a>:<br>
-A list of awesome projects on Glitch!<br>
-Stars: 1 • Forks: 0 • HTML</p>
+<p><a href="https://github.com/aboutDavid/p2pbin">p2pbin</a>:<br>
+P2P Paste Sharing based on IPFS<br>
+Stars: 6 • Forks: 0 • HTML</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/blog">blog</a>:<br>
 This blog is somewhat of a archive now. Please see URL for new blog.<br>
 Stars: 1 • Forks: 0 • HTML</p>
-</li>
-<li>
-<p><a href="https://github.com/aboutDavid/rocket11ty">rocket11ty</a>:<br>
-A simple halfmoon 11ty blog based on <a href="https://github.com/11ty/eleventy-base-blog">https://github.com/11ty/eleventy-base-blog</a>.<br>
-Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <h3>things i use to code</h3>
@@ -89,4 +89,4 @@ Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: November 23, 2020 at 4:17 PM (EST)
+Last updated on: November 23, 2020 at 4:32 PM (EST)
