@@ -18,18 +18,12 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/awesomeprojects @ November 23, 2020 (8:10 pm):<br>
-😎💘 Checkpoint
-./README.md:8045597/36
-./_data/projects.js:8045597/2978<br>
-<a href="https://github.com/aboutDavid/awesomeprojects/commit/1c1250e8bfb6cdbde92aa59c9cc74dd6d83cd7a9">view this commit</a></p>
+<p>aboutDavid/awesomeprojects @ November 23, 2020 (10:25 pm):<br>
+🌯🏗 Checkpoint
+./_data/projects.js:8045597/1<br>
+<a href="https://github.com/aboutDavid/awesomeprojects/commit/00f6f6bcfd8c8977ff2390af4cd8574f25fb7a18">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutDavid/rocket11ty">rocket11ty</a>:<br>
-A simple halfmoon 11ty blog based on <a href="https://github.com/11ty/eleventy-base-blog">https://github.com/11ty/eleventy-base-blog</a>.<br>
-Stars: 5 • Forks: 1 • HTML</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutDavid/pastedown">pastedown</a>:<br>
 A simple Markdown pastebin written in PHP<br>
@@ -46,14 +40,19 @@ Just a simple test<br>
 Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutDavid/p2pbin">p2pbin</a>:<br>
-P2P Paste Sharing based on IPFS<br>
-Stars: 6 • Forks: 0 • HTML</p>
+<p><a href="https://github.com/aboutDavid/awesomeprojects">awesomeprojects</a>:<br>
+A list of awesome projects on Glitch!<br>
+Stars: 1 • Forks: 0 • HTML</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/blog">blog</a>:<br>
 This blog is somewhat of a archive now. Please see URL for new blog.<br>
 Stars: 1 • Forks: 0 • HTML</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/rocket11ty">rocket11ty</a>:<br>
+A simple halfmoon 11ty blog based on <a href="https://github.com/11ty/eleventy-base-blog">https://github.com/11ty/eleventy-base-blog</a>.<br>
+Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <h3>things i use to code</h3>
@@ -89,4 +88,4 @@ Stars: 1 • Forks: 0 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: November 23, 2020 at 5:23 PM (EST)
+Last updated on: November 23, 2020 at 5:30 PM (EST)
