@@ -42,7 +42,7 @@ Stars: 1 • Forks: 0 • Unknown</p>
 <li>
 <p><a href="https://github.com/aboutDavid/awesomeprojects">awesomeprojects</a>:<br>
 A list of awesome projects on Glitch!<br>
-Stars: 2 • Forks: 1 • HTML</p>
+Stars: 1 • Forks: 0 • HTML</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/blog">blog</a>:<br>
@@ -88,4 +88,4 @@ Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: November 24, 2020 at 5:23 AM (EST)
+Last updated on: November 24, 2020 at 5:33 AM (EST)
