@@ -72,6 +72,9 @@ Stars: 5 • Forks: 1 • HTML</p>
 <h3>📰 recent blog posts:</h3>
 <ul>
 <li>
+<p><a href="https://notebook.aboutdavid.me/entries/the-case-of-the-unfriendly-piece-of-text">The case of the unfriendly piece of text</a></p>
+</li>
+<li>
 <p><a href="https://notebook.aboutdavid.me/entries/updating-my-github-profile-readme">Updating my GitHub profile README</a></p>
 </li>
 <li>
@@ -83,9 +86,6 @@ Stars: 5 • Forks: 1 • HTML</p>
 <li>
 <p><a href="https://notebook.aboutdavid.me/entries/i-made-my-own-blog-using-11ty-11ty-base-blog-and-bulma">I made my own blog using 11ty, 11ty base blog, and Bulma.</a></p>
 </li>
-<li>
-<p><a href="https://notebook.aboutdavid.me/entries/cheat-sheet-for-webpacks-config-rules">Cheat sheet for webpack's config rules</a></p>
-</li>
 </ul>
 <br>
-Last updated on: November 24, 2020 at 5:56 PM (EST)
+Last updated on: November 24, 2020 at 6:29 PM (EST)
