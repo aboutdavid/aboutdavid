@@ -18,10 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/awesomeprojects @ November 24, 2020 (2:51 am):<br>
-Merge pull request #1 from khalby786/patch-1</p>
-<p>add glitch embed for projects<br>
-<a href="https://github.com/aboutDavid/awesomeprojects/commit/e84937e75849cbb8be5d9b3aafd395769c72ab89">view this commit</a></p>
+<p>jsonsite/jsonsite @ November 25, 2020 (7:11 pm):<br>
+fix json in readme<br>
+<a href="https://github.com/jsonsite/jsonsite/commit/ca164ccad0e689cdf097717caf73d55277631ed3">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -88,4 +87,4 @@ Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: November 25, 2020 at 1:57 PM (EST)
+Last updated on: November 25, 2020 at 2:15 PM (EST)
