@@ -18,12 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>jsonsite/jsonsite @ November 25, 2020 (10:27 pm):<br>
-🍱🌂 Checkpoint
-./app.js:8045597/7904
-./netlify.toml:8045597/189
-./README.md:8045597/75<br>
-<a href="https://github.com/jsonsite/jsonsite/commit/3648d7b5cb4a245c753c25904572b8d2e306c01c">view this commit</a></p>
+<p>jsonsite/cli @ November 25, 2020 (11:53 pm):<br>
+forgot to commit, inital commit<br>
+<a href="https://github.com/jsonsite/cli/commit/1aba05275c93db7160678891f7b9a6dbf05b8e86">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -90,4 +87,4 @@ Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: November 25, 2020 at 6:46 PM (EST)
+Last updated on: November 25, 2020 at 6:53 PM (EST)
