@@ -18,9 +18,10 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>jsonsite/jsonsite @ November 26, 2020 (2:31 am):<br>
-Add PR Template<br>
-<a href="https://github.com/jsonsite/jsonsite/commit/9cbe32f597425eb1fb45d726e2f8b7276cd31181">view this commit</a></p>
+<p>aboutDavid/js.org @ November 26, 2020 (2:47 am):<br>
+Add <a href="http://jsonsite.js.org">jsonsite.js.org</a></p>
+<p>I don't think vercel allows me to use CNAME records.<br>
+<a href="https://github.com/aboutDavid/js.org/commit/f6d2ef09afc9f1dd6cb8563fce2aa254647d9cd2">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +88,4 @@ Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: November 25, 2020 at 9:40 PM (EST)
+Last updated on: November 25, 2020 at 9:48 PM (EST)
