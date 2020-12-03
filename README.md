@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/obs-virtual-cam @ December 3, 2020 (2:43 pm):<br>
-Add uninstallation<br>
-<a href="https://github.com/aboutDavid/obs-virtual-cam/commit/bed0738063afed932fed35d3f51ce970b12af62f">view this commit</a></p>
+<p>aboutDavid/gitme @ December 3, 2020 (3:01 pm):<br>
+delete git lock for runner<br>
+<a href="https://github.com/aboutDavid/gitme/commit/e51e8c874acbc01305711877a3fbd55269847c4e">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: December 3, 2020 at 9:57 AM (EST)
+Last updated on: December 3, 2020 at 10:20 AM (EST)
