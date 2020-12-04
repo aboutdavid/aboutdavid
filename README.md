@@ -51,7 +51,7 @@ Stars: 1 • Forks: 0 • HTML</p>
 <li>
 <p><a href="https://github.com/aboutDavid/rocket11ty">rocket11ty</a>:<br>
 A simple halfmoon 11ty blog based on <a href="https://github.com/11ty/eleventy-base-blog">https://github.com/11ty/eleventy-base-blog</a>.<br>
-Stars: 5 • Forks: 2 • HTML</p>
+Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <h3>things i use to code</h3>
@@ -87,4 +87,4 @@ Stars: 5 • Forks: 2 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: December 4, 2020 at 3:48 PM (EST)
+Last updated on: December 4, 2020 at 3:56 PM (EST)
