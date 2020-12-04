@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/gitme @ December 3, 2020 (3:01 pm):<br>
-delete git lock for runner<br>
-<a href="https://github.com/aboutDavid/gitme/commit/e51e8c874acbc01305711877a3fbd55269847c4e">view this commit</a></p>
+<p>aboutDavid/blocks.css @ December 4, 2020 (5:12 pm):<br>
+Add P2Pdoc to &quot;Built with blocks.css&quot;<br>
+<a href="https://github.com/aboutDavid/blocks.css/commit/11df325b4a466100638fbd92d37a92bba6889bab">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 5 • Forks: 1 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: December 4, 2020 at 11:42 AM (EST)
+Last updated on: December 4, 2020 at 12:21 PM (EST)
