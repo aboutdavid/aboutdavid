@@ -26,7 +26,7 @@ Add P2Pdoc to &quot;Built with blocks.css&quot;<br>
 <li>
 <p><a href="https://github.com/aboutDavid/pastedown">pastedown</a>:<br>
 A simple Markdown pastebin written in PHP<br>
-Stars: 1 • Forks: 0 • PHP</p>
+Stars: 2 • Forks: 0 • PHP</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/honeypot">honeypot</a>:<br>
@@ -87,4 +87,4 @@ Stars: 6 • Forks: 2 • HTML</p>
 </li>
 </ul>
 <br>
-Last updated on: December 6, 2020 at 8:01 PM (EST)
+Last updated on: December 6, 2020 at 9:02 PM (EST)
