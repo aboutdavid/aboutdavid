@@ -18,11 +18,16 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/blocks.css @ December 4, 2020 (5:12 pm):<br>
-Add P2Pdoc to &quot;Built with blocks.css&quot;<br>
-<a href="https://github.com/aboutDavid/blocks.css/commit/11df325b4a466100638fbd92d37a92bba6889bab">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ December 7, 2020 (6:04 am):<br>
+add devprofile<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/4ef96d077cc3164893f0aeaf05d14f000f9d1b19">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
+<li>
+<p><a href="https://github.com/aboutDavid/pastedown">pastedown</a>:<br>
+A simple Markdown pastebin written in PHP<br>
+Stars: 2 • Forks: 0 • PHP</p>
+</li>
 <li>
 <p><a href="https://github.com/aboutDavid/honeypot">honeypot</a>:<br>
 A simple open source Honeypot for catching bad web bots.<br>
@@ -39,19 +44,14 @@ A list of awesome projects on Glitch!<br>
 Stars: 3 • Forks: 1 • HTML</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutDavid/PuppeteerScreenshot">PuppeteerScreenshot</a>:<br>
-A simple website screenshot microservice built with Node.js and Puppeteer<br>
-Stars: 0 • Forks: 0 • Unknown</p>
+<p><a href="https://github.com/aboutDavid/blog">blog</a>:<br>
+This blog is somewhat of a archive now. Please see URL for new blog.<br>
+Stars: 1 • Forks: 0 • HTML</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/rocket11ty">rocket11ty</a>:<br>
 A simple halfmoon 11ty blog based on <a href="https://github.com/11ty/eleventy-base-blog">https://github.com/11ty/eleventy-base-blog</a>.<br>
 Stars: 6 • Forks: 2 • HTML</p>
-</li>
-<li>
-<p><a href="https://github.com/aboutDavid/pastedown">pastedown</a>:<br>
-A simple Markdown pastebin written in PHP<br>
-Stars: 2 • Forks: 0 • PHP</p>
 </li>
 </ul>
 <h3>things i use to code</h3>
@@ -87,4 +87,4 @@ Stars: 2 • Forks: 0 • PHP</p>
 </li>
 </ul>
 <br>
-Last updated on: December 7, 2020 at 1:02 AM (EST)
+Last updated on: December 7, 2020 at 1:04 AM (EST)
