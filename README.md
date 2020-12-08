@@ -41,7 +41,7 @@ Stars: 0 • Forks: 0 • Unknown</p>
 <li>
 <p><a href="https://github.com/aboutDavid/webshot">webshot</a>:<br>
 A microservice to take screenshots of web pages using puppeteer. <br>
-Stars: 0 • Forks: 0 • JavaScript</p>
+Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/pastedown">pastedown</a>:<br>
@@ -87,4 +87,4 @@ Stars: 3 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <br>
-Last updated on: December 8, 2020 at 11:07 AM (EST)
+Last updated on: December 8, 2020 at 11:44 AM (EST)
