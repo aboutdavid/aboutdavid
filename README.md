@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/DangerousUserDB @ December 8, 2020 (12:09 am):<br>
-Add rewrites<br>
-<a href="https://github.com/aboutDavid/DangerousUserDB/commit/e3b258a0b5138ef104487356915beffa5809385a">view this commit</a></p>
+<p>aboutDavid/glitchapidocs @ December 10, 2020 (2:32 am):<br>
+update contributors section<br>
+<a href="https://github.com/aboutDavid/glitchapidocs/commit/96e35f6d5ba274d967049a58a1ec6cbad4a35d2a">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: December 9, 2020 at 9:01 PM (EST)
+Last updated on: December 9, 2020 at 9:33 PM (EST)
