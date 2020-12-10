@@ -39,9 +39,9 @@ A microservice to take screenshots of web pages using puppeteer. <br>
 Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutDavid/glitchapi">glitchapi</a>:<br>
-Really just API docs built with Glitch.<br>
-Stars: 2 • Forks: 0 • Unknown</p>
+<p><a href="https://github.com/aboutDavid/pastedown">pastedown</a>:<br>
+A simple Markdown pastebin written in PHP<br>
+Stars: 2 • Forks: 0 • PHP</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/honeypot">honeypot</a>:<br>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: December 9, 2020 at 7:29 PM (EST)
+Last updated on: December 9, 2020 at 8:23 PM (EST)
