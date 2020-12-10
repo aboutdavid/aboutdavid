@@ -18,10 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/glitchapidocs @ December 10, 2020 (2:39 am):<br>
-Merge <a href="https://github.com/aboutDavid/glitchapidocs">https://github.com/aboutDavid/glitchapidocs</a></p>
-<p>merge readme stuff<br>
-<a href="https://github.com/aboutDavid/glitchapidocs/commit/cb94923e9a5e1bca05107bc541cb2dd97b1d8ac2">view this commit</a></p>
+<p>aboutDavid/glitchapidocs @ December 10, 2020 (3:22 am):<br>
+add docs and fix metatags<br>
+<a href="https://github.com/aboutDavid/glitchapidocs/commit/9d1e9948326e01c7fd5394f3ca738d6c395e2a25">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -88,4 +87,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: December 9, 2020 at 9:56 PM (EST)
+Last updated on: December 9, 2020 at 10:22 PM (EST)
