@@ -41,7 +41,7 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 <li>
 <p><a href="https://github.com/aboutDavid/glitchapi">glitchapi</a>:<br>
 Really just API docs built with Glitch.<br>
-Stars: 0 • Forks: 0 • Unknown</p>
+Stars: 2 • Forks: 0 • Unknown</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/honeypot">honeypot</a>:<br>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: December 9, 2020 at 6:54 PM (EST)
+Last updated on: December 9, 2020 at 7:29 PM (EST)
