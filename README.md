@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/glitchapidocs @ December 10, 2020 (2:44 pm):<br>
-update docs<br>
-<a href="https://github.com/aboutDavid/glitchapidocs/commit/5e24674943a2d3ec53d65426c1bfe2ef939c5fbd">view this commit</a></p>
+<p>aboutDavid/glitchapidocs @ December 11, 2020 (3:34 pm):<br>
+add custom domain api endpoints<br>
+<a href="https://github.com/aboutDavid/glitchapidocs/commit/f1521df6e7d4dc37d7e847f08a3141cbfb28f403">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: December 11, 2020 at 10:23 AM (EST)
+Last updated on: December 11, 2020 at 10:38 AM (EST)
