@@ -18,10 +18,10 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/glitchapidocs @ December 11, 2020 (5:21 pm):<br>
-Merge pull request #7 from aboutDavid/all-contributors/add-khalby786</p>
-<p>docs: add khalby786 as a contributor<br>
-<a href="https://github.com/aboutDavid/glitchapidocs/commit/f6ec2e4e9ea6ceb4f6ede41fa43a7d9579bf7e57">view this commit</a></p>
+<p>aboutDavid/jsoning @ December 15, 2020 (9:05 pm):<br>
+jsoning was loaded as &quot;database&quot; not &quot;db&quot; in example.</p>
+<p>Basically, in the example, it used &quot;db&quot; to use jsoning, however, &quot;db&quot; wasn't defined. So I changed &quot;let database&quot; to &quot;let db&quot;<br>
+<a href="https://github.com/aboutDavid/jsoning/commit/7cee5c1b1d58875b665ec6b852a8b5115781ad9f">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -88,4 +88,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: December 15, 2020 at 3:56 PM (EST)
+Last updated on: December 15, 2020 at 4:17 PM (EST)
