@@ -44,9 +44,9 @@ Unofficial API Docs for <a href="http://glitch.com">glitch.com</a><br>
 Stars: 1 • Forks: 1 • JavaScript</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutDavid/honeypot">honeypot</a>:<br>
-A simple open source Honeypot for catching bad web bots.<br>
-Stars: 3 • Forks: 0 • JavaScript</p>
+<p><a href="https://github.com/aboutDavid/awesome-workflows">awesome-workflows</a>:<br>
+An awesome list of GitHub workflows such as gautamkrishnar/blog-post-workflow<br>
+Stars: 0 • Forks: 0 • HTML</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/test-repo">test-repo</a>:<br>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: December 20, 2020 at 3:28 PM (EST)
+Last updated on: December 20, 2020 at 3:46 PM (EST)
