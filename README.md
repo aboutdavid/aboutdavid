@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/awesome-workflows @ December 20, 2020 (11:54 pm):<br>
+<p>aboutDavid/awesome-readme-workflows @ December 21, 2020 (6:22 pm):<br>
 Update <a href="http://README.md">README.md</a><br>
-<a href="https://github.com/aboutDavid/awesome-workflows/commit/d44c090049cc7fc2b2a0f4e4e53b25b238987083">view this commit</a></p>
+<a href="https://github.com/aboutDavid/awesome-readme-workflows/commit/c477049781bc2afdfb8ba927a6a0efcb32420286">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -44,7 +44,7 @@ Unofficial API Docs for <a href="http://glitch.com">glitch.com</a><br>
 Stars: 1 • Forks: 1 • JavaScript</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutDavid/awesome-workflows">awesome-workflows</a>:<br>
+<p><a href="https://github.com/aboutDavid/awesome-readme-workflows">awesome-readme-workflows</a>:<br>
 An awesome list of GitHub workflows<br>
 Stars: 3 • Forks: 0 • HTML</p>
 </li>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: December 21, 2020 at 12:49 PM (EST)
+Last updated on: December 21, 2020 at 1:45 PM (EST)
