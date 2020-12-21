@@ -45,7 +45,7 @@ Stars: 1 • Forks: 1 • JavaScript</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutDavid/awesome-workflows">awesome-workflows</a>:<br>
-An awesome list of GitHub workflows such as gautamkrishnar/blog-post-workflow<br>
+An awesome list of GitHub workflows<br>
 Stars: 1 • Forks: 0 • HTML</p>
 </li>
 <li>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: December 20, 2020 at 6:57 PM (EST)
+Last updated on: December 20, 2020 at 8:07 PM (EST)
