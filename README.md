@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/personal-website @ January 9, 2021 (3:55 pm):<br>
-Update <a href="http://LICENSE.md">LICENSE.md</a><br>
-<a href="https://github.com/aboutDavid/personal-website/commit/c258b41462c3b40d788e7cbcaec1b0c73bda9b60">view this commit</a></p>
+<p>aboutDavid/watertube @ January 10, 2021 (8:38 pm):<br>
+update path for electron<br>
+<a href="https://github.com/aboutDavid/watertube/commit/4bc7d6786cd5f75464dd0f3b801204f90efbe840">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: January 10, 2021 at 3:09 PM (EST)
+Last updated on: January 10, 2021 at 3:44 PM (EST)
