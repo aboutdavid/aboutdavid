@@ -49,8 +49,8 @@ files for the glitch wiki so the glitch project does not overload.<br>
 Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutDavid/datasets">datasets</a>:<br>
-GitHub action powered dataset that retrieves data every few minutes <br>
+<p><a href="https://github.com/aboutDavid/notion.css">notion.css</a>:<br>
+Replicate <a href="http://Notion.so">Notion.so</a>'s CSS<br>
 Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
@@ -87,4 +87,4 @@ Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: January 10, 2021 at 2:05 PM (EST)
+Last updated on: January 10, 2021 at 2:45 PM (EST)
