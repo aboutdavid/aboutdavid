@@ -18,9 +18,10 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/watertube @ January 11, 2021 (3:42 am):<br>
-make server ready for electron<br>
-<a href="https://github.com/aboutDavid/watertube/commit/f8d3d2f1b38d1a6dfd30c463daf822c9d13ef275">view this commit</a></p>
+<p>aboutDavid/unethical-web-analytics @ January 11, 2021 (5:43 pm):<br>
+remove <a href="http://sa.aboutdavid.me">sa.aboutdavid.me</a></p>
+<p>Simple Analytics is <strong>not</strong> unethical. It appears that you have taken no time to even look into simple analytics and to block them. They don't use cookies at all and all things tracked is anonymous .<br>
+<a href="https://github.com/aboutDavid/unethical-web-analytics/commit/276d02dce0f9819cc30f0a2189822862e86ea39f">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +88,4 @@ Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: January 11, 2021 at 12:19 PM (EST)
+Last updated on: January 11, 2021 at 1:26 PM (EST)
