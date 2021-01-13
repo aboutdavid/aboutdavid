@@ -18,10 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/unethical-web-analytics @ January 11, 2021 (5:43 pm):<br>
-remove <a href="http://sa.aboutdavid.me">sa.aboutdavid.me</a></p>
-<p>Simple Analytics is <strong>not</strong> unethical. It appears that you have taken no time to even look into simple analytics and to block them. They don't use cookies at all and all things tracked is anonymous .<br>
-<a href="https://github.com/aboutDavid/unethical-web-analytics/commit/276d02dce0f9819cc30f0a2189822862e86ea39f">view this commit</a></p>
+<p>aboutDavid/watertube @ January 13, 2021 (1:52 pm):<br>
+fix scripts for heroku<br>
+<a href="https://github.com/aboutDavid/watertube/commit/4b39a4677864a9accc125d616ec5d916274e7b7b">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -88,4 +87,4 @@ Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: January 13, 2021 at 7:56 AM (EST)
+Last updated on: January 13, 2021 at 8:56 AM (EST)
