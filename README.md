@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/ConvTemp @ January 16, 2021 (10:47 pm):<br>
-update readme to use new api<br>
-<a href="https://github.com/aboutDavid/ConvTemp/commit/aec6bca765eefc682aae88966a17dacff9690413">view this commit</a></p>
+<p>aboutDavid/personal-website @ January 19, 2021 (3:37 am):<br>
+remove netlifycms<br>
+<a href="https://github.com/aboutDavid/personal-website/commit/e7f6a71a2794ec170c7b2687620117167ead1f35">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: January 18, 2021 at 10:22 PM (EST)
+Last updated on: January 18, 2021 at 11:11 PM (EST)
