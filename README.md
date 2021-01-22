@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/personal-website @ January 19, 2021 (3:37 am):<br>
-remove netlifycms<br>
-<a href="https://github.com/aboutDavid/personal-website/commit/e7f6a71a2794ec170c7b2687620117167ead1f35">view this commit</a></p>
+<p>pwamarket/registry @ January 22, 2021 (1:03 am):<br>
+Update and rename test.json to p2pdoc.json<br>
+<a href="https://github.com/pwamarket/registry/commit/3cbcde65b695daad9e95ab6543dce26ef218ef60">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: January 21, 2021 at 7:01 PM (EST)
+Last updated on: January 21, 2021 at 8:48 PM (EST)
