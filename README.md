@@ -18,17 +18,11 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/Bot @ January 24, 2021 (1:43 am):<br>
-make this thing stfu</p>
-<p>bloody hell<br>
-<a href="https://github.com/aboutDavid/Bot/commit/1d924472138d7866d8b0f18419899bd8f422b979">view this commit</a></p>
+<p>aboutDavid/bigrat-ipfs @ January 24, 2021 (7:38 pm):<br>
+make folder smaller<br>
+<a href="https://github.com/aboutDavid/bigrat-ipfs/commit/70b89392639fdd795da7e0bc69f8c972ab3d9dfe">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutDavid/blog-comments">blog-comments</a>:<br>
-The comments repo for my blog<br>
-Stars: 0 • Forks: 0 • Unknown</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutDavid/aboutdavid.github.io">aboutdavid.github.io</a>:<br>
 My github pages site (it uses workflows lol)<br>
@@ -52,6 +46,11 @@ Stars: 0 • Forks: 0 • Unknown</p>
 <li>
 <p><a href="https://github.com/aboutDavid/notion.css">notion.css</a>:<br>
 Replicate <a href="http://Notion.so">Notion.so</a>'s CSS<br>
+Stars: 0 • Forks: 0 • Unknown</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/bigrat-ipfs">bigrat-ipfs</a>:<br>
+bigrat.monster but on IPFS<br>
 Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
@@ -88,4 +87,4 @@ Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: January 24, 2021 at 12:13 PM (EST)
+Last updated on: January 24, 2021 at 3:16 PM (EST)
