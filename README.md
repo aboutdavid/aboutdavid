@@ -18,9 +18,9 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/js.org @ January 26, 2021 (6:38 pm):<br>
-<a href="http://chameleon.js.org">chameleon.js.org</a><br>
-<a href="https://github.com/aboutDavid/js.org/commit/dd5ef533f20062546f2366421a65fcdba2e0ec29">view this commit</a></p>
+<p>aboutDavid/aboutdavid @ January 27, 2021 (1:59 am):<br>
+Update gitme-scheduled.yml<br>
+<a href="https://github.com/aboutDavid/aboutdavid/commit/f7074efaa0c04974c9f3e221a91d52e1ea814105">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +87,4 @@ Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: January 26, 2021 at 8:35 PM (EST)
+Last updated on: January 26, 2021 at 8:59 PM (EST)
