@@ -1,9 +1,0 @@
-{
-   "name":"David",
-   "bio":"Hello, I'm David. I mainly design websites using JAMstack and Bulma. Languages I like to use for projects include JavaScript, HTML, SCSS, and (occasionally) PHP. This website was made with the awesome Static Site Generator called 11ty. Below you can see what I have been doing lately and contact me.",
-   "avatar":"https://avatars2.githubusercontent.com/u/62346025",
-   "website":"https://aboutdavid.me",
-   "socials":{
-      "twitter":"UpscaleDavid"
-   }
-}
