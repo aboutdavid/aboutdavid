@@ -18,16 +18,11 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/aboutdavid @ February 2, 2021 (1:12 pm):<br>
-Delete devprofile<br>
-<a href="https://github.com/aboutDavid/aboutdavid/commit/d1364c58d4ad301f37f7f6932b16215169fa7071">view this commit</a></p>
+<p>aboutDavid/rocketpad @ February 6, 2021 (3:39 am):<br>
+fix cors-anywhere url<br>
+<a href="https://github.com/aboutDavid/rocketpad/commit/f245ad831d40e72174ecbeb78b5c781bc8fa80a1">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutDavid/aboutdavid.github.io">aboutdavid.github.io</a>:<br>
-My github pages site (it uses workflows lol)<br>
-Stars: 0 • Forks: 0 • HTML</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutDavid/linkace-heroku">linkace-heroku</a>:<br>
 Heroku setup for linkace: the bookmark server.<br>
@@ -52,6 +47,11 @@ Stars: 0 • Forks: 0 • Unknown</p>
 <p><a href="https://github.com/aboutDavid/bigrat-ipfs">bigrat-ipfs</a>:<br>
 bigrat.monster but on IPFS<br>
 Stars: 0 • Forks: 0 • Unknown</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/rocketpad">rocketpad</a>:<br>
+Create mini essays/websites and publish them to the distributed web via IPFS<br>
+Stars: 1 • Forks: 0 • CSS</p>
 </li>
 </ul>
 <h3>things i use to code</h3>
@@ -87,4 +87,4 @@ Stars: 0 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <br>
-Last updated on: February 5, 2021 at 7:22 PM (EST)
+Last updated on: February 6, 2021 at 7:23 PM (EST)
