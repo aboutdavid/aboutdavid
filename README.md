@@ -18,9 +18,10 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/rocketpad @ February 6, 2021 (3:39 am):<br>
-fix cors-anywhere url<br>
-<a href="https://github.com/aboutDavid/rocketpad/commit/f245ad831d40e72174ecbeb78b5c781bc8fa80a1">view this commit</a></p>
+<p>aboutDavid/rocket11ty @ February 8, 2021 (4:45 pm):<br>
+Merge pull request #10 from aboutDavid/dependabot/npm_and_yarn/markdown-it-anchor-7.0.2</p>
+<p>Bump markdown-it-anchor from 7.0.1 to 7.0.2<br>
+<a href="https://github.com/aboutDavid/rocket11ty/commit/ddbf53ad00ad065eec782cf902a53ec818f30180">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -87,4 +88,4 @@ Stars: 1 • Forks: 0 • CSS</p>
 </li>
 </ul>
 <br>
-Last updated on: February 7, 2021 at 7:22 PM (EST)
+Last updated on: February 8, 2021 at 7:22 PM (EST)
