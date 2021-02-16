@@ -18,10 +18,10 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/rocket11ty @ February 8, 2021 (4:45 pm):<br>
-Merge pull request #10 from aboutDavid/dependabot/npm_and_yarn/markdown-it-anchor-7.0.2</p>
-<p>Bump markdown-it-anchor from 7.0.1 to 7.0.2<br>
-<a href="https://github.com/aboutDavid/rocket11ty/commit/ddbf53ad00ad065eec782cf902a53ec818f30180">view this commit</a></p>
+<p>aboutDavid/rocket11ty @ February 15, 2021 (5:44 pm):<br>
+Merge pull request #11 from aboutDavid/dependabot/npm_and_yarn/luxon-1.26.0</p>
+<p>Bump luxon from 1.25.0 to 1.26.0<br>
+<a href="https://github.com/aboutDavid/rocket11ty/commit/303abb200e6ff3478c2b530155f79c3cbc97c746">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -88,4 +88,4 @@ Stars: 1 • Forks: 0 • CSS</p>
 </li>
 </ul>
 <br>
-Last updated on: February 14, 2021 at 7:23 PM (EST)
+Last updated on: February 15, 2021 at 7:23 PM (EST)
