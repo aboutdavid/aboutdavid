@@ -18,17 +18,11 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/rocket11ty @ February 16, 2021 (2:08 pm):<br>
-Merge pull request #12 from aboutDavid/dependabot/npm_and_yarn/eleventy-plugin-embed-everything-1.11.0</p>
-<p>Bump eleventy-plugin-embed-everything from 1.10.0 to 1.11.0<br>
-<a href="https://github.com/aboutDavid/rocket11ty/commit/2cf97bb626c6b31b0de55f4b0cbb40a835b2a841">view this commit</a></p>
+<p>aboutDavid/awesome-ipfs @ February 19, 2021 (9:20 pm):<br>
+Add rocketpad's source code<br>
+<a href="https://github.com/aboutDavid/awesome-ipfs/commit/cfb166fa4baf6e642c0c2f589d1b417af745571c">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutDavid/linkace-heroku">linkace-heroku</a>:<br>
-Heroku setup for linkace: the bookmark server.<br>
-Stars: 0 • Forks: 0 • Shell</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutDavid/p2pdoc">p2pdoc</a>:<br>
 Create a document and share it to the distributed web using IPFS. <br>
@@ -53,6 +47,11 @@ Stars: 0 • Forks: 0 • Unknown</p>
 <p><a href="https://github.com/aboutDavid/rocketpad">rocketpad</a>:<br>
 Create mini essays/websites and publish them to the distributed web via IPFS<br>
 Stars: 1 • Forks: 0 • CSS</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/quizlet-fetcher">quizlet-fetcher</a>:<br>
+Fetch quizlet cards by scrapping the quizlet website.<br>
+Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <h3>things i use to code</h3>
@@ -88,4 +87,4 @@ Stars: 1 • Forks: 0 • CSS</p>
 </li>
 </ul>
 <br>
-Last updated on: February 18, 2021 at 7:23 PM (EST)
+Last updated on: February 19, 2021 at 7:22 PM (EST)
