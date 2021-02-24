@@ -18,16 +18,11 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/awesome-ipfs @ February 19, 2021 (9:20 pm):<br>
-Add rocketpad's source code<br>
-<a href="https://github.com/aboutDavid/awesome-ipfs/commit/cfb166fa4baf6e642c0c2f589d1b417af745571c">view this commit</a></p>
+<p>aboutDavid/discord-telegram-bridge @ February 23, 2021 (9:28 pm):<br>
+Update URLs<br>
+<a href="https://github.com/aboutDavid/discord-telegram-bridge/commit/b3b40ea595275126a0bdd5dd6b3927e97918763f">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutDavid/p2pdoc">p2pdoc</a>:<br>
-Create a document and share it to the distributed web using IPFS. <br>
-Stars: 0 • Forks: 0 • HTML</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutDavid/glitchwiki">glitchwiki</a>:<br>
 files for the glitch wiki so the glitch project does not overload.<br>
@@ -52,6 +47,11 @@ Stars: 1 • Forks: 0 • CSS</p>
 <p><a href="https://github.com/aboutDavid/quizlet-fetcher">quizlet-fetcher</a>:<br>
 Fetch quizlet cards by scrapping the quizlet website.<br>
 Stars: 1 • Forks: 0 • JavaScript</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/discord-telegram-bridge">discord-telegram-bridge</a>:<br>
+rehost of daaniiieel/discord-telegram-bridge since the repo seems to be deleted<br>
+Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <h3>things i use to code</h3>
@@ -87,4 +87,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <br>
-Last updated on: February 22, 2021 at 7:23 PM (EST)
+Last updated on: February 23, 2021 at 7:23 PM (EST)
