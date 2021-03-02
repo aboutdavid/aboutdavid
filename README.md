@@ -18,18 +18,12 @@ A simple README generator for your profile or repo. You can use it with nunjucks
 </li>
 </ul>
 <h3>latest commit:</h3>
-<p>aboutDavid/Bot @ February 27, 2021 (8:49 pm):<br>
-Revert &quot;Add report reasons to DUDB&quot;</p>
-<p>This reverts commit fa3264d975b3fc20092c65c268dd23d24c6073ca.</p>
-<p>revert to fa3264d975b3fc20092c65c268dd23d24c6073ca<br>
-<a href="https://github.com/aboutDavid/Bot/commit/72c7f47471f045f13cccff97f41d14afce996483">view this commit</a></p>
+<p>aboutDavid/devreader @ March 1, 2021 (2:01 am):<br>
+Merge pull request #1 from aboutDavid/imgbot</p>
+<p>[ImgBot] Optimize images<br>
+<a href="https://github.com/aboutDavid/devreader/commit/4376be9c55cc4798a5b66940ec9f9cde7a33c02a">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutDavid/glitchwiki">glitchwiki</a>:<br>
-files for the glitch wiki so the glitch project does not overload.<br>
-Stars: 0 • Forks: 0 • Unknown</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutDavid/notion.css">notion.css</a>:<br>
 Replicate <a href="http://Notion.so">Notion.so</a>'s CSS<br>
@@ -53,6 +47,11 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 <li>
 <p><a href="https://github.com/aboutDavid/discord-telegram-bridge">discord-telegram-bridge</a>:<br>
 rehost of daaniiieel/discord-telegram-bridge since the repo seems to be deleted<br>
+Stars: 0 • Forks: 0 • JavaScript</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/devreader">devreader</a>:<br>
+yeet<br>
 Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
@@ -89,4 +88,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <br>
-Last updated on: February 28, 2021 at 7:25 PM (EST)
+Last updated on: March 1, 2021 at 7:20 PM (EST)
