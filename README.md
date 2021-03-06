@@ -25,11 +25,6 @@ Merge pull request #1 from aboutDavid/imgbot</p>
 <h3>recent github repos</h3>
 <ul>
 <li>
-<p><a href="https://github.com/aboutDavid/notion.css">notion.css</a>:<br>
-Replicate <a href="http://Notion.so">Notion.so</a>'s CSS<br>
-Stars: 0 • Forks: 0 • Unknown</p>
-</li>
-<li>
 <p><a href="https://github.com/aboutDavid/bigrat-ipfs">bigrat-ipfs</a>:<br>
 bigrat.monster but on IPFS<br>
 Stars: 0 • Forks: 0 • Unknown</p>
@@ -53,6 +48,11 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 <p><a href="https://github.com/aboutDavid/devreader">devreader</a>:<br>
 yeet<br>
 Stars: 0 • Forks: 0 • JavaScript</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutDavid/reformatter">reformatter</a>:<br>
+lol<br>
+Stars: 0 • Forks: 0 • CSS</p>
 </li>
 </ul>
 <h3>things i use to code</h3>
@@ -88,4 +88,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <br>
-Last updated on: March 3, 2021 at 7:23 PM (EST)
+Last updated on: March 5, 2021 at 7:23 PM (EST)
