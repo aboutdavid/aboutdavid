@@ -52,7 +52,7 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 <li>
 <p><a href="https://github.com/aboutDavid/reformatter">reformatter</a>:<br>
 lol<br>
-Stars: 0 • Forks: 0 • CSS</p>
+Stars: 1 • Forks: 0 • CSS</p>
 </li>
 </ul>
 <h3>things i use to code</h3>
@@ -88,4 +88,4 @@ Stars: 0 • Forks: 0 • CSS</p>
 </li>
 </ul>
 <br>
-Last updated on: March 5, 2021 at 7:23 PM (EST)
+Last updated on: March 6, 2021 at 7:25 PM (EST)
