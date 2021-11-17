@@ -3,13 +3,7 @@ hello, i'm <b>David.</b> i mainly design websites using **JAMstack** and **Bulma
 a lot of my code is **open-source** which is usually located on either **github** or **glitch**.
 you can contact me via [email](mailto:aboutdavid@pm.me) or via [twitter](https://twitter.com/@UpscaleDavid).
 
-### recent projects
-{% for project in projects %}
-- [{{ project.name }}]({{ project.url }}):<br>
-{{ project.description }}<br>
-{% endfor %}
-
-### latest commit:
+### latest commit
 {{ commit.repo }} @ {{ commit.time }}:<br>
 {{ commit.message }}<br>
 [view this commit]({{ commit.url }})
