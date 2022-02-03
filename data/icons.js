@@ -39,5 +39,7 @@ module.exports = {
   github:
     "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-github-48.png?v=1605883284150",
   npm:
-    "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587"
+    "https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587",
+  vsc:
+    "https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617",
 };
