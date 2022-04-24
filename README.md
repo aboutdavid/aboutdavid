@@ -3,13 +3,9 @@
 a lot of my code is <strong>open-source</strong> which is usually located on either <strong>github</strong> or <strong>glitch</strong>. Sometimes <strong>tildegit</strong> if it’s small snippets.
 you can contact me via <a href="mailto:aboutdavid@pm.me">email</a> or via <a href="https://twitter.com/@UpscaleDavid">twitter</a>.</p>
 <h3>latest commit</h3>
-<p>aboutDavid/covid-19-next @ March 22, 2022 (8:13 pm):<br>
-fix: package.json &amp; package-lock.json to reduce vulnerabilities</p>
-<p>The following vulnerabilities are fixed with an upgrade:</p>
-<ul>
-<li><a href="https://snyk.io/vuln/SNYK-JS-MINIMIST-2429795">https://snyk.io/vuln/SNYK-JS-MINIMIST-2429795</a><br>
-<a href="https://github.com/aboutDavid/covid-19-next/commit/b67dad483a5d9f2f1725fbcd821462332fc2aa1d">view this commit</a></li>
-</ul>
+<p>aboutDavid/512kb.club @ April 22, 2022 (3:33 am):<br>
+Fix mistake on <a href="http://aboutdavid.me">aboutdavid.me</a><br>
+<a href="https://github.com/aboutDavid/512kb.club/commit/aaddb350ce9020a7b6151ffbd7cdc0963d5c8675">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -57,4 +53,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-atom-editor-48.png?v=1605844607826" align="left" width="26px">
 <br><br>
-<p>Last updated on: April 21, 2022 at 8:28 PM (EST)</p>
+<p>Last updated on: April 23, 2022 at 8:24 PM (EST)</p>
