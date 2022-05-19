@@ -15,7 +15,7 @@ fix: package.json &amp; package-lock.json to reduce vulnerabilities</p>
 <li>
 <p><a href="https://github.com/aboutdavid/example-petition">example-petition</a>:<br>
 Example petition for a petition site i'm making<br>
-Stars: 1 • Forks: 0 • Unknown</p>
+Stars: 2 • Forks: 0 • Unknown</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutdavid/1fileblog">1fileblog</a>:<br>
@@ -57,4 +57,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-atom-editor-48.png?v=1605844607826" align="left" width="26px">
 <br><br>
-<p>Last updated on: May 17, 2022 at 8:25 PM (EST)</p>
+<p>Last updated on: May 18, 2022 at 8:33 PM (EST)</p>
