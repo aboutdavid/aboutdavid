@@ -25,7 +25,7 @@ Stars: 2 • Forks: 0 • PHP</p>
 <li>
 <p><a href="https://github.com/aboutdavid/email-list">email-list</a>:<br>
 Can I use GitHub as an email list?<br>
-Stars: 1 • Forks: 0 • Unknown</p>
+Stars: 2 • Forks: 0 • Unknown</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutdavid/isaidb00g3rs">isaidb00g3rs</a>:<br>
@@ -57,4 +57,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-atom-editor-48.png?v=1605844607826" align="left" width="26px">
 <br><br>
-<p>Last updated on: May 21, 2022 at 8:27 PM (EST)</p>
+<p>Last updated on: May 23, 2022 at 8:31 PM (EST)</p>
