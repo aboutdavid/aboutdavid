@@ -3,9 +3,13 @@
 a lot of my code is <strong>open-source</strong> which is usually located on either <strong>github</strong> or <strong>glitch</strong>. Sometimes <strong>tildegit</strong> if it’s small snippets.
 you can contact me via <a href="mailto:aboutdavid@pm.me">email</a> or via <a href="https://twitter.com/@UpscaleDavid">twitter</a>.</p>
 <h3>latest commit</h3>
-<p>aboutdavid/quizlet-fetcher @ July 5, 2022 (8:42 pm):<br>
-Fix JSON for npm release<br>
-<a href="https://github.com/aboutdavid/quizlet-fetcher/commit/cf86c591bb7d3aa5e24795f1bf4b73136651ffe1">view this commit</a></p>
+<p>aboutdavid/covid-19-next @ July 14, 2022 (5:22 pm):<br>
+fix: package.json &amp; package-lock.json to reduce vulnerabilities</p>
+<p>The following vulnerabilities are fixed with an upgrade:</p>
+<ul>
+<li><a href="https://snyk.io/vuln/SNYK-JS-TERSER-2806366">https://snyk.io/vuln/SNYK-JS-TERSER-2806366</a><br>
+<a href="https://github.com/aboutdavid/covid-19-next/commit/b58df8ea9609f0d7ba99f068058cae23e1151051">view this commit</a></li>
+</ul>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -53,4 +57,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-atom-editor-48.png?v=1605844607826" align="left" width="26px">
 <br><br>
-<p>Last updated on: July 13, 2022 at 8:34 PM (EST)</p>
+<p>Last updated on: July 14, 2022 at 8:35 PM (EST)</p>
