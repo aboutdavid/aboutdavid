@@ -1,11 +1,11 @@
 <h1>hello 👋,</h1>
-<p>hello, i’m <b>David.</b> i’m a high-schooler who likes tennis, food, and coding
-a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong>
-you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or discord (aboutdavid#5745)</p>
+<p>hello, i’m <b>David.</b> i’m a high-schooler who likes tennis, food, and coding</p>
+<p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
+<p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or on discord (aboutdavid#5745)</p>
 <h3>latest commit</h3>
-<p>aboutdavid/aboutdavid @ November 18, 2022 (10:47 pm):<br>
-Update <a href="http://index.md">index.md</a><br>
-<a href="https://github.com/aboutdavid/aboutdavid/commit/966240b40ac3a852c41e43b996d97a9f4dd4105a">view this commit</a></p>
+<p>aboutdavid/aboutdavid @ November 18, 2022 (10:59 pm):<br>
+Node 12.x --&gt; 16.x Upgrade<br>
+<a href="https://github.com/aboutdavid/aboutdavid/commit/225b148e27b183de3937ae73b3d037ee74e05f9c">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -52,4 +52,4 @@ Stars: 4 • Forks: 0 • CSS</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: November 18, 2022 at 5:48 PM (EST)</p>
+<p>Last updated on: November 18, 2022 at 5:59 PM (EST)</p>
