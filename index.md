@@ -1,7 +1,7 @@
 # hello 👋,
-hello, i'm <b>David.</b> i mainly design websites using **JAMstack** and **Bulma.** 
-a lot of my code is **open-source** which is usually located on either **github** or **glitch**. Sometimes **tildegit** if it's small snippets.
-you can contact me via [email](mailto:aboutdavid@pm.me) or via [twitter](https://twitter.com/@UpscaleDavid).
+hello, i'm <b>David.</b> i'm a high-schooler who likes tennis, food, and coding
+a lot of my code is **open-source** which is usually located here on **github**
+you can contact me via [email](mailto:aboutdavid@protonmail.com), [twitter](https://twitter.com/@UpscaleDavid), or discord (aboutdavid#5745)
 
 ### latest commit
 {{ commit.repo }} @ {{ commit.time }}:<br>
@@ -27,7 +27,6 @@ Stars: {{ repo.stargazers }} • Forks: {{ repo.forks }} • {% if repo.primaryL
 <img src="{{ icons.gitlab }}" align="left" width="26px">
 <img src="{{ icons.npm }}" align="left" width="26px">
 <img src="{{ icons.vsc }}" align="left" width="26px">
-<img src="{{ icons.atomeditor }}" align="left" width="26px">
 <br><br>
 
 Last updated on: {{ date.dateandtime }} (EST)
