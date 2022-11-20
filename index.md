@@ -18,7 +18,7 @@ Stars: {{ repo.stargazers }} • Forks: {{ repo.forks }} • {% if repo.primaryL
 {% endfor %}
 
 ### time spent programming
-longest time: {{ wakatime.highest }}
+longest session: {{ wakatime.highest }}<br>
 today: {{ wakatime.today }}
 
 ### things i use to code
