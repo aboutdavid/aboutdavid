@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or on discord (aboutdavid#5745)</p>
 <h3>latest commit</h3>
-<p>aboutdavid/aboutdavid @ November 18, 2022 (10:59 pm):<br>
-Node 12.x --&gt; 16.x Upgrade<br>
-<a href="https://github.com/aboutdavid/aboutdavid/commit/225b148e27b183de3937ae73b3d037ee74e05f9c">view this commit</a></p>
+<p>aboutdavid/aboutdavid @ November 20, 2022 (11:31 pm):<br>
+add wakatime<br>
+<a href="https://github.com/aboutdavid/aboutdavid/commit/aef86126cd59bdb81e399dd76268b979579bd006">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -29,16 +29,19 @@ Use notion as a CMS in 11ty. Can be used with anything else, but was specificall
 Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutdavid/i18n">i18n</a>:<br>
-Translations for <a href="http://aboutdavid.me">aboutdavid.me</a> (<a href="http://i18n.aboutdavid.me">i18n.aboutdavid.me</a>)<br>
-Stars: 0 • Forks: 0 • JavaScript</p>
+<p><a href="https://github.com/aboutdavid/blog-comments">blog-comments</a>:<br>
+Powered by <a href="http://utteranc.es">utteranc.es</a><br>
+Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutdavid/personal-website">personal-website</a>:<br>
-My personal website with no client-side JavaScript.<br>
-Stars: 4 • Forks: 0 • CSS</p>
+<p><a href="https://github.com/aboutdavid/reformatter">reformatter</a>:<br>
+A little Glitch app that reformats articles and makes them prettier.<br>
+Stars: 3 • Forks: 0 • CSS</p>
 </li>
 </ul>
+<h3>time spent programming</h3>
+<p>longest time: 1 hr 48 mins
+today: 12 mins</p>
 <h3>things i use to code</h3>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
@@ -52,4 +55,4 @@ Stars: 4 • Forks: 0 • CSS</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: November 19, 2022 at 8:05 PM (EST)</p>
+<p>Last updated on: November 20, 2022 at 6:31 PM (EST)</p>
