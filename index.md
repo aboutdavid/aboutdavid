@@ -17,6 +17,10 @@ you can contact me via [email](mailto:aboutdavid@protonmail.com), [twitter](http
 Stars: {{ repo.stargazers }} • Forks: {{ repo.forks }} • {% if repo.primaryLanguage %}{{ repo.primaryLanguage.name }}{% else %}Unknown{% endif%}
 {% endfor %}
 
+### time spent programming
+longest time: {{ wakatime.highest }}
+today: {{ wakatime.today }}
+
 ### things i use to code
 <img src="{{ icons.html }}" align="left" width="26px">
 <img src="{{ icons.css }}" align="left" width="26px">
