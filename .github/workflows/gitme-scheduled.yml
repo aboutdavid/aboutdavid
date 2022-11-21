@@ -11,7 +11,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: "16.x"
-      - run: timedatectl set-timezone America/New_York
+      - run: "TZ='America/New_York'; export TZ"
       - run: npm install
       - run: node index.js
         env:
