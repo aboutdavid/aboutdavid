@@ -7,7 +7,7 @@ var res = request(
   {
     headers: {
       "user-agent": "David's Website",
-      "Authorization": `Bearer ${process.env.GITHUB_TOKEN}`
+      //Authorization": `Bearer ${process.env.GITHUB_TOKEN}`
     }
   }
 );
