@@ -19,7 +19,7 @@ if (!today) text = "Unable to fetch..."
 
 module.exports = {
     highest: json[0].grand_total.text,
-    today: json.find(i=>i.range.date == `${new Date().getFullYear()}-${new Date().getMonth()+1}-${new Date().getDate()-1}`).grand_total.text,
+    today: text,
 }
 
 console.log(module.exports)
