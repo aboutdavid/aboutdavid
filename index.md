@@ -6,7 +6,7 @@ a lot of my code is **open-source** which is usually located here on **github**
 you can contact me via [email](mailto:aboutdavid@protonmail.com), [twitter](https://twitter.com/@UpscaleDavid), or on discord (aboutdavid#5745)
 
 ### latest commit
-{{ commit.repo }} @ {{ commit.time }}:<br>
+[{{ commit.repo }}](https://github.com/{{ commit.repo }}) @ {{ commit.time }}:<br>
 {{ commit.message }}<br>
 [view this commit]({{ commit.url }})
 
