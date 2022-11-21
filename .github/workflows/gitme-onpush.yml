@@ -8,6 +8,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: "12.x"
+      - run: timedatectl set-timezone America/New_York
       - run: npm install
       - run: node index.js
         env:
