@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or on discord (aboutdavid#5745)</p>
 <h3>latest commit</h3>
-<p>aboutdavid/aboutdavid @ November 20, 2022 (11:36 pm):<br>
-spacing/typing<br>
-<a href="https://github.com/aboutdavid/aboutdavid/commit/07a7036df95d1972064efa403318edf9d1624d8f">view this commit</a></p>
+<p>aboutdavid/aboutdavid @ November 20, 2022 at 7:55 PM:<br>
+use the declared var<br>
+<a href="https://github.com/aboutdavid/aboutdavid/commit/91aa056ed9a43bac2544bdd5132fa3052bd148b3">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -41,7 +41,7 @@ Stars: 3 • Forks: 0 • CSS</p>
 </ul>
 <h3>time spent programming</h3>
 <p>longest session: 1 hr 48 mins<br>
-today: 12 mins</p>
+today: 13 mins</p>
 <h3>things i use to code</h3>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
@@ -55,4 +55,4 @@ today: 12 mins</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: November 20, 2022 at 6:36 PM (EST)</p>
+<p>Last updated on: November 20, 2022 at 7:55 PM (EST)</p>
