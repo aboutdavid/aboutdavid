@@ -5,7 +5,8 @@ var res = request(
   `https://api.github.com/users/${username}/events/public`,
   {
     headers: {
-      "user-agent": "David's Website"
+      "user-agent": "David's Website",
+      "Authorization": `token ${process.env.GITHUB_TOKEN}`
     }
   }
 );
