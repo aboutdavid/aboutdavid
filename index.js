@@ -58,7 +58,7 @@ require("./run.js").command("git", ["add", "--all"]);
 require("./run.js").command("git", [
   "commit",
   "-m",
-  '"[skip ci] GitME compiled README file."'
+  '"🌈 Automated Commit: Rendered the README.md file"'
 ]);
 require("./run.js").command("git", [
   "push",
