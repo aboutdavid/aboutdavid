@@ -21,5 +21,3 @@ module.exports = {
     highest: json[0].grand_total.text,
     today: text,
 }
-
-console.log(module.exports)
