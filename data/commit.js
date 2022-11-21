@@ -1,5 +1,6 @@
 const username = "aboutDavid";
 var request = require("sync-request");
+console.log("Bearer is %s", process.env.GITHUB_TOKEN)
 var res = request(
   "GET",
   `https://api.github.com/users/${username}/events/public`,
