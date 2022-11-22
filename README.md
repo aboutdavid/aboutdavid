@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or on discord (aboutdavid#5745)</p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/aboutdavid">aboutdavid/aboutdavid</a> @ November 20, 2022 at 9:43 PM:<br>
-update commit message<br>
-<a href="https://github.com/aboutdavid/aboutdavid/commit/94dbb64f9879ea1bd61768a585edfe8e571fb5a2">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/1fileblog">aboutdavid/1fileblog</a> @ November 21, 2022 at 5:13 PM:<br>
+Create LICENSE<br>
+<a href="https://github.com/aboutdavid/1fileblog/commit/b244a07f393287fc7ca3fdb73759dc4afde9c840">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -41,7 +41,7 @@ Stars: 3 • Forks: 0 • CSS</p>
 </ul>
 <h3>time spent programming</h3>
 <p>longest session: 1 hr 48 mins<br>
-today: 13 mins</p>
+today: Unable to fetch…</p>
 <h3>things i use to code</h3>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
@@ -55,4 +55,4 @@ today: 13 mins</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: November 20, 2022 at 9:43 PM (EST)</p>
+<p>Last updated on: November 21, 2022 at 8:03 PM (EST)</p>
