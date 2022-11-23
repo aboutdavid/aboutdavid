@@ -3,16 +3,11 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or on discord (aboutdavid#5745)</p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/1fileblog">aboutdavid/1fileblog</a> @ November 21, 2022 at 5:13 PM:<br>
+<p><a href="https://github.com/notelier/.github">notelier/.github</a> @ November 22, 2022 at 4:39 PM:<br>
 Create LICENSE<br>
-<a href="https://github.com/aboutdavid/1fileblog/commit/b244a07f393287fc7ca3fdb73759dc4afde9c840">view this commit</a></p>
+<a href="https://github.com/notelier/.github/commit/301b1857b975b8ad909c2aaf6af0d5ef3fd3c42b">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutdavid/1filecache">1filecache</a>:<br>
-1 file php caching system for all of your projects which is most likely broken<br>
-Stars: 3 • Forks: 0 • PHP</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutdavid/1fileblog">1fileblog</a>:<br>
 A simple blog written in PHP, but in one file<br>
@@ -38,6 +33,11 @@ Stars: 1 • Forks: 0 • Unknown</p>
 A little Glitch app that reformats articles and makes them prettier.<br>
 Stars: 3 • Forks: 0 • CSS</p>
 </li>
+<li>
+<p><a href="https://github.com/aboutdavid/1filecache">1filecache</a>:<br>
+1 file php caching system for all of your projects which is most likely broken<br>
+Stars: 3 • Forks: 0 • PHP</p>
+</li>
 </ul>
 <h3>time spent programming</h3>
 <p>longest session: 1 hr 48 mins<br>
@@ -55,4 +55,4 @@ today: Unable to fetch…</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: November 21, 2022 at 8:03 PM (EST)</p>
+<p>Last updated on: November 22, 2022 at 7:56 PM (EST)</p>
