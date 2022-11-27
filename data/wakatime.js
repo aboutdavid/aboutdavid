@@ -8,16 +8,22 @@ var res = request(
     }
   }
 );
+var at = request(
+  "GET",
+  `https://wakatime.com/share/@aboutDavid/9e7aa41f-94b2-4623-8844-334169a6bed9.json`,
+  {
+    headers: {
+      "user-agent": "David's Website"
+    }
+  }
+);
+var atdata = JSON.parse(at.getBody("utf8"))
+var alltime = `${atdata.data.best_day.text} on ${atdata.data.best_day.date}`
 var json = JSON.parse(res.getBody("utf8")).data
-json.sort((a,b)=>b.grand_total.total_seconds-a.grand_total.total_seconds)
-console.log(json)
-var text
-var today = json.find(i=>i.range.date == `${new Date().getFullYear()}-${new Date().getMonth()+1}-${new Date().getDate()}`)
-if (!today) today = json.find(i=>i.range.date == `${new Date().getFullYear()}-${new Date().getMonth()+1}-${new Date().getDate()-1}`)
-if (today) text = today.grand_total.text
-if (!today) text = "Unable to fetch..."
+
+
 
 module.exports = {
-    highest: json[0].grand_total.text,
-    today: text,
+    highest: alltime,
+    today: json[json.length-1].grand_total.text,
 }
