@@ -11,7 +11,7 @@ add hosting options<br>
 <li>
 <p><a href="https://github.com/aboutdavid/pocketrss">pocketrss</a>:<br>
 Takes RSS feeds and puts them in Pocket<br>
-Stars: 1 • Forks: 0 • JavaScript</p>
+Stars: 2 • Forks: 0 • JavaScript</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutdavid/notion11ty">notion11ty</a>:<br>
@@ -55,4 +55,4 @@ today: 0 secs</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: December 5, 2022 at 7:52 PM (EST)</p>
+<p>Last updated on: December 6, 2022 at 2:02 PM (EST)</p>
