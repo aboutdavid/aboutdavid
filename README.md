@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or on discord (aboutdavid#5745)</p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/dns">aboutdavid/dns</a> @ December 15, 2022 at 2:01 PM:<br>
-Add <code>lghs.hackclub.com</code> for Locust Grove High<br>
-<a href="https://github.com/aboutdavid/dns/commit/e7b225a2164c8221eaa79d83f343689ec5cb70bd">view this commit</a></p>
+<p><a href="https://github.com/notelier/.github">notelier/.github</a> @ December 27, 2022 at 2:13 AM:<br>
+Update <a href="http://README.md">README.md</a><br>
+<a href="https://github.com/notelier/.github/commit/b70d970ba5ddd5bd2928ffc2b8556931a834f347">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -41,7 +41,7 @@ Stars: 2 • Forks: 0 • PHP</p>
 </ul>
 <h3>time spent programming</h3>
 <p>longest session: 7 hrs 51 mins on 2021-01-29<br>
-today: 1 hr 10 mins</p>
+today: 0 secs</p>
 <h3>things i use to code</h3>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
@@ -55,4 +55,4 @@ today: 1 hr 10 mins</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: December 24, 2022 at 7:54 PM (EST)</p>
+<p>Last updated on: December 30, 2022 at 7:50 PM (EST)</p>
