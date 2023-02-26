@@ -3,11 +3,16 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or on discord (aboutdavid#5745)</p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/notelier/okdap">notelier/okdap</a> @ January 13, 2023 at 3:03 PM:<br>
-oKDAP - add more data<br>
-<a href="https://github.com/notelier/okdap/commit/2c2742777e2546242b60869b916c5c1291736d96">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/website">aboutdavid/website</a> @ February 21, 2023 at 5:18 PM:<br>
+Remove license. I don’t want people reposting this<br>
+<a href="https://github.com/aboutdavid/website/commit/02a618b17d76820b657c46065ad1eb69abbc39c8">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
+<li>
+<p><a href="https://github.com/aboutdavid/pocketrss">pocketrss</a>:<br>
+Takes RSS feeds and puts them in Pocket<br>
+Stars: 2 • Forks: 0 • JavaScript</p>
+</li>
 <li>
 <p><a href="https://github.com/aboutdavid/notion11ty">notion11ty</a>:<br>
 Use notion as a CMS in 11ty. Can be used with anything else, but was specifically designed with 11ty. <br>
@@ -24,19 +29,14 @@ An API server for Here Comes the Bus<br>
 Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutdavid/gs">gs</a>:<br>
-Government server stuff<br>
-Stars: 1 • Forks: 0 • Unknown</p>
+<p><a href="https://github.com/aboutdavid/1filecache">1filecache</a>:<br>
+1 file php caching system for all of your projects which is most likely broken<br>
+Stars: 3 • Forks: 0 • PHP</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutdavid/1fileblog">1fileblog</a>:<br>
 A simple blog written in PHP, but in one file<br>
 Stars: 3 • Forks: 0 • PHP</p>
-</li>
-<li>
-<p><a href="https://github.com/aboutdavid/pocketrss">pocketrss</a>:<br>
-Takes RSS feeds and puts them in Pocket<br>
-Stars: 2 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <h3>time spent programming</h3>
@@ -55,4 +55,4 @@ today: 0 secs</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: February 20, 2023 at 7:58 PM (EST)</p>
+<p>Last updated on: February 25, 2023 at 8:01 PM (EST)</p>
