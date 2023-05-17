@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or on discord (aboutdavid#5745)</p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/website">aboutdavid/website</a> @ February 21, 2023 at 5:18 PM:<br>
-Remove license. I don’t want people reposting this<br>
-<a href="https://github.com/aboutdavid/website/commit/02a618b17d76820b657c46065ad1eb69abbc39c8">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/sprig">aboutdavid/sprig</a> @ April 25, 2023 at 1:12 PM:<br>
+Add files via upload<br>
+<a href="https://github.com/aboutdavid/sprig/commit/281cf985d58b982fa716c5808de66d59d6ba2a6d">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -16,7 +16,7 @@ Stars: 2 • Forks: 0 • JavaScript</p>
 <li>
 <p><a href="https://github.com/aboutdavid/notion11ty">notion11ty</a>:<br>
 Use notion as a CMS in 11ty. Can be used with anything else, but was specifically designed with 11ty. <br>
-Stars: 1 • Forks: 0 • JavaScript</p>
+Stars: 2 • Forks: 0 • JavaScript</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutdavid/blog-comments">blog-comments</a>:<br>
@@ -36,12 +36,12 @@ Stars: 3 • Forks: 0 • PHP</p>
 <li>
 <p><a href="https://github.com/aboutdavid/1fileblog">1fileblog</a>:<br>
 A simple blog written in PHP, but in one file<br>
-Stars: 3 • Forks: 0 • PHP</p>
+Stars: 2 • Forks: 0 • PHP</p>
 </li>
 </ul>
 <h3>time spent programming</h3>
 <p>longest session: 7 hrs 51 mins on 2021-01-29<br>
-today: 0 secs</p>
+today: 1 hr 6 mins</p>
 <h3>things i use to code</h3>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
@@ -55,4 +55,4 @@ today: 0 secs</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: April 21, 2023 at 8:50 PM (EST)</p>
+<p>Last updated on: May 16, 2023 at 8:53 PM (EST)</p>
