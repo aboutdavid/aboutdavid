@@ -3,10 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a>, <a href="https://twitter.com/@UpscaleDavid">twitter</a>, or on discord (aboutdavid#5745)</p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/outerlan">hackclub/outerlan</a> @ July 14, 2023 at 8:55 PM:<br>
-Merge pull request #5 from omzz15/main</p>
-<p>added commands to install certificates<br>
-<a href="https://github.com/hackclub/outerlan/commit/136c0f3a9721044078c34a7ef1fa5fffe0390137">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/website">aboutdavid/website</a> @ July 17, 2023 at 9:51 AM:<br>
+i don't pay $8 for no checkmark<br>
+<a href="https://github.com/aboutdavid/website/commit/0d90d9b2a46b48b906c228f90337becbafd41aee">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -56,4 +55,4 @@ today: 0 secs</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: July 16, 2023 at 9:06 PM (EST)</p>
+<p>Last updated on: July 17, 2023 at 9:19 PM (EST)</p>
