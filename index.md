@@ -3,7 +3,7 @@ hello, i'm <b>David.</b> i'm a high-schooler who likes tennis, food, and coding
 
 a lot of my code is **open-source** which is usually located here on **github**
 
-you can contact me via [email](mailto:aboutdavid@protonmail.com), [twitter](https://twitter.com/@UpscaleDavid), or on discord (aboutdavid#5745)
+you can contact me via [email](mailto:aboutdavid@protonmail.com or via [mastodon](https://social.dino.icu/@david)
 
 ### latest commit
 [{{ commit.repo }}](https://github.com/{{ commit.repo }}) @ {{ commit.time }}:<br>
