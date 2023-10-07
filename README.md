@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/aboutdavid">aboutdavid/aboutdavid</a> @ September 16, 2023 at 6:17 PM:<br>
-unbreak markdown<br>
-<a href="https://github.com/aboutdavid/aboutdavid/commit/1bbfff8dc487ea98772665738397661cf5c8dbd0">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/0shade">aboutdavid/0shade</a> @ October 3, 2023 at 12:38 PM:<br>
+Compile new list<br>
+<a href="https://github.com/aboutdavid/0shade/commit/cc23fcb8924f1ec96dfee8c7b34f1f5a9934618f">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -21,7 +21,7 @@ Stars: 1 • Forks: 0 • Unknown</p>
 <li>
 <p><a href="https://github.com/aboutdavid/hctb-api">hctb-api</a>:<br>
 An API server for Here Comes the Bus<br>
-Stars: 3 • Forks: 1 • JavaScript</p>
+Stars: 4 • Forks: 1 • JavaScript</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutdavid/hcb2ynab">hcb2ynab</a>:<br>
@@ -29,9 +29,9 @@ Syncs your Hack Club Bank account to You Need A Budget<br>
 Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutdavid/1fileblog">1fileblog</a>:<br>
-A simple blog written in PHP, but in one file<br>
-Stars: 2 • Forks: 0 • PHP</p>
+<p><a href="https://github.com/aboutdavid/0shade">0shade</a>:<br>
+0shade: No more throwaway emails<br>
+Stars: 4 • Forks: 0 • JavaScript</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutdavid/pocketrss">pocketrss</a>:<br>
@@ -41,7 +41,7 @@ Stars: 3 • Forks: 0 • JavaScript</p>
 </ul>
 <h3>time spent programming</h3>
 <p>longest session: 7 hrs 51 mins on 2021-01-29<br>
-today: 0 secs</p>
+today: 2 hrs 58 mins</p>
 <h3>things i use to code</h3>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
@@ -55,4 +55,4 @@ today: 0 secs</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: September 16, 2023 at 8:45 PM (EST)</p>
+<p>Last updated on: October 6, 2023 at 8:42 PM (EST)</p>
