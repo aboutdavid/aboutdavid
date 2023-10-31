@@ -3,15 +3,15 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/0shade">aboutdavid/0shade</a> @ October 8, 2023 at 3:06 PM:<br>
-Update &amp; compile list<br>
-<a href="https://github.com/aboutdavid/0shade/commit/5027e99f4d51405be4bb2c46aaf2e62e9dc71ac2">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/website">aboutdavid/website</a> @ October 30, 2023 at 10:32 AM:<br>
+update copyright &amp; wording<br>
+<a href="https://github.com/aboutdavid/website/commit/9a0964991104001154121df4e123fda8aa71a68c">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
 <p><a href="https://github.com/aboutdavid/notion11ty">notion11ty</a>:<br>
 Use notion as a CMS in 11ty. Can be used with anything else, but was specifically designed with 11ty. <br>
-Stars: 3 • Forks: 0 • JavaScript</p>
+Stars: 4 • Forks: 0 • JavaScript</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutdavid/blog-comments">blog-comments</a>:<br>
@@ -41,7 +41,7 @@ Stars: 3 • Forks: 0 • JavaScript</p>
 </ul>
 <h3>time spent programming</h3>
 <p>longest session: 7 hrs 51 mins on 2021-01-29<br>
-today: 0 secs</p>
+today: 26 mins</p>
 <h3>things i use to code</h3>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
@@ -55,4 +55,4 @@ today: 0 secs</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: October 8, 2023 at 8:43 PM (EST)</p>
+<p>Last updated on: October 30, 2023 at 8:43 PM (EST)</p>
