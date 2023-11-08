@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/website">aboutdavid/website</a> @ October 30, 2023 at 10:32 AM:<br>
-update copyright &amp; wording<br>
-<a href="https://github.com/aboutdavid/website/commit/9a0964991104001154121df4e123fda8aa71a68c">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/hctb-api">aboutdavid/hctb-api</a> @ November 7, 2023 at 7:31 PM:<br>
+Add Web UI &amp; Give more details (2.0.0)<br>
+<a href="https://github.com/aboutdavid/hctb-api/commit/0dd84b40775d14ca1d7fc8ab16610abe54bfd0ad">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -55,4 +55,4 @@ today: 0 secs</p>
 <img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
 <img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
 <br><br>
-<p>Last updated on: November 6, 2023 at 7:44 PM (EST)</p>
+<p>Last updated on: November 7, 2023 at 7:43 PM (EST)</p>
