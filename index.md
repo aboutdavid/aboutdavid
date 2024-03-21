@@ -17,22 +17,7 @@ you can contact me via [email](mailto:aboutdavid@protonmail.com) or via [mastodo
 Stars: {{ repo.stargazers }} • Forks: {{ repo.forks }} • {% if repo.primaryLanguage %}{{ repo.primaryLanguage.name }}{% else %}Unknown{% endif%}
 {% endfor %}
 
-### time spent programming
-longest session: {{ wakatime.highest }}<br>
-today: {{ wakatime.today }}
 
-### things i use to code
-<img src="{{ icons.html }}" align="left" width="26px">
-<img src="{{ icons.css }}" align="left" width="26px">
-<img src="{{ icons.javascript }}" align="left" width="26px">
-<img src="{{ icons.nodejs }}" align="left" width="26px">
-<img src="{{ icons.php }}" align="left" width="26px">
-<img src="{{ icons.sass }}" align="left" width="26px">
-<img src="{{ icons.github }}" align="left" width="26px">
-<img src="{{ icons.git }}" align="left" width="26px">
-<img src="{{ icons.gitlab }}" align="left" width="26px">
-<img src="{{ icons.npm }}" align="left" width="26px">
-<img src="{{ icons.vsc }}" align="left" width="26px">
 <br><br>
 
 Last updated on: {{ date.dateandtime }} (EST)
