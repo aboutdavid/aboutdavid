@@ -3,16 +3,11 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/hctb-api">aboutdavid/hctb-api</a> @ November 8, 2023 at 2:44 PM:<br>
-Include lat/lon in openapi spec (fix)<br>
-<a href="https://github.com/aboutdavid/hctb-api/commit/b229ae47b578b7d9f034dc840ce4e3157a3df267">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/anki-apkg-export-browser">aboutdavid/anki-apkg-export-browser</a> @ March 21, 2024 at 8:17 AM:<br>
+Init hard fork<br>
+<a href="https://github.com/aboutdavid/anki-apkg-export-browser/commit/88ac1e999e22af2a2f6bd5b133d1e3b6d4e29573">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutdavid/notion11ty">notion11ty</a>:<br>
-Use notion as a CMS in 11ty. Can be used with anything else, but was specifically designed with 11ty. <br>
-Stars: 4 • Forks: 0 • JavaScript</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutdavid/blog-comments">blog-comments</a>:<br>
 Powered by <a href="http://utteranc.es">utteranc.es</a><br>
@@ -21,7 +16,7 @@ Stars: 1 • Forks: 0 • Unknown</p>
 <li>
 <p><a href="https://github.com/aboutdavid/hctb-api">hctb-api</a>:<br>
 An API server for Here Comes the Bus<br>
-Stars: 4 • Forks: 1 • JavaScript</p>
+Stars: 9 • Forks: 3 • JavaScript</p>
 </li>
 <li>
 <p><a href="https://github.com/aboutdavid/hcb2ynab">hcb2ynab</a>:<br>
@@ -34,25 +29,15 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 Stars: 4 • Forks: 0 • JavaScript</p>
 </li>
 <li>
-<p><a href="https://github.com/aboutdavid/pocketrss">pocketrss</a>:<br>
-Takes RSS feeds and puts them in Pocket<br>
-Stars: 3 • Forks: 0 • JavaScript</p>
+<p><a href="https://github.com/aboutdavid/quizlet2anki">quizlet2anki</a>:<br>
+Browser extension for downloading Quizlet sets as Anki flashcards<br>
+Stars: 0 • Forks: 0 • JavaScript</p>
+</li>
+<li>
+<p><a href="https://github.com/aboutdavid/notion11ty">notion11ty</a>:<br>
+Use notion as a CMS in 11ty. Can be used with anything else, but was specifically designed with 11ty. <br>
+Stars: 4 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
-<h3>time spent programming</h3>
-<p>longest session: 7 hrs 51 mins on 2021-01-29<br>
-today: 0 secs</p>
-<h3>things i use to code</h3>
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-html-5-48.png?v=1605844408246" align="left" width="26px">
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-css3-48.png?v=1605844427037" align="left" width="26px">
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-javascript-48.png?v=1605844445485" align="left" width="26px">
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-nodejs-48.png?v=1605830531481" align="left" width="26px">
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-php-logo-16.png?v=1605839056865" align="left" width="26px">
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-sass-48.png?v=1605883230100" align="left" width="26px">
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-github-48.png?v=1605883284150" align="left" width="26px">
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-git-48.png?v=1605883264836" align="left" width="26px">
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-gitlab-48.png?v=1605883246676" align="left" width="26px">
-<img src="https://cdn.glitch.com/17eaef8d-c248-49b5-81da-45e23cdc0b12%2Ficons8-npm-48.png?v=1605883300587" align="left" width="26px">
-<img src="https://cdn.glitch.global/2c4aeca6-bdf6-455e-ac76-4eeb4a408fa4/icons8-visual-studio-code-2019-48.png?v=1643856601617" align="left" width="26px">
-<br><br>
-<p>Last updated on: November 10, 2023 at 7:43 PM (EST)</p>
+<p><br><br></p>
+<p>Last updated on: March 21, 2024 at 1:45 PM (EST)</p>
