@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/anki-apkg-export-browser">aboutdavid/anki-apkg-export-browser</a> @ March 21, 2024 at 8:17 AM:<br>
-Init hard fork<br>
-<a href="https://github.com/aboutdavid/anki-apkg-export-browser/commit/88ac1e999e22af2a2f6bd5b133d1e3b6d4e29573">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/quizlet2anki">aboutdavid/quizlet2anki</a> @ March 23, 2024 at 3:45 PM:<br>
+Update build steps + bump version to publish<br>
+<a href="https://github.com/aboutdavid/quizlet2anki/commit/ce6811e24a8215f4b34e6a3ff889a5d2c94285fc">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 4 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: March 21, 2024 at 1:45 PM (EST)</p>
+<p>Last updated on: March 23, 2024 at 8:10 PM (EST)</p>
