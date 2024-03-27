@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/hcbmissingreceipts">aboutdavid/hcbmissingreceipts</a> @ March 25, 2024 at 10:01 AM:<br>
-fix incorrect info<br>
-<a href="https://github.com/aboutdavid/hcbmissingreceipts/commit/22a5176e221463607ec8425cc98a9e92a3655bfc">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/dns">aboutdavid/dns</a> @ March 26, 2024 at 9:24 AM:<br>
+updated ttl for write.dino.icu<br>
+<a href="https://github.com/aboutdavid/dns/commit/9b3cea9beffd0caa91c2cac92ea8894e43a7e658">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 0 • Forks: 0 • TypeScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: March 25, 2024 at 8:08 PM (EST)</p>
+<p>Last updated on: March 26, 2024 at 8:08 PM (EST)</p>
