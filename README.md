@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/threadlocker">aboutdavid/threadlocker</a> @ April 9, 2024 at 11:36 AM:<br>
-Add auto-unlocking on timer<br>
-<a href="https://github.com/aboutdavid/threadlocker/commit/b79ca665273ee1e83673e9986fd7c47b01045713">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/threadlocker">aboutdavid/threadlocker</a> @ April 10, 2024 at 8:03 PM:<br>
+Remove dev console.log &amp; add auto unlock<br>
+<a href="https://github.com/aboutdavid/threadlocker/commit/3405339fceb54251c03f6f4aac2d7cfb2698f78b">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 1 • Forks: 2 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: April 9, 2024 at 8:08 PM (EST)</p>
+<p>Last updated on: April 10, 2024 at 8:09 PM (EST)</p>
