@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/threadlocker">aboutdavid/threadlocker</a> @ April 12, 2024 at 11:45 PM:<br>
-fix auto cron<br>
-<a href="https://github.com/aboutdavid/threadlocker/commit/4f08dd5506fc5ca13d325de35626d2a577f70b1d">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/nest">aboutdavid/nest</a> @ April 14, 2024 at 1:16 PM:<br>
+Replace user var and txt name<br>
+<a href="https://github.com/aboutdavid/nest/commit/9e64487453e804a81bc4618fec46eb5bc04c21cd">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 2 • Forks: 2 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: April 13, 2024 at 8:12 PM (EST)</p>
+<p>Last updated on: April 14, 2024 at 10:27 PM (EST)</p>
