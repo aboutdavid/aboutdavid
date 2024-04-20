@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/trail-lan">aboutdavid/trail-lan</a> @ April 18, 2024 at 2:59 PM:<br>
-first commit<br>
-<a href="https://github.com/aboutdavid/trail-lan/commit/0a6d9bd80f0daeab0cac3b2ae1abbda5862a1474">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/outernet-scrapbooknn">aboutdavid/outernet-scrapbooknn</a> @ April 19, 2024 at 2:24 PM:<br>
+Delete public/videos/error [レッドゾーン]-5BZLz21ZS_Y.mp4<br>
+<a href="https://github.com/aboutdavid/outernet-scrapbooknn/commit/7c8a62801633234d849540dbfafe361a60f30575">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 1 • Forks: 0 • Unknown</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: April 18, 2024 at 8:08 PM (EST)</p>
+<p>Last updated on: April 19, 2024 at 8:08 PM (EST)</p>
