@@ -3,16 +3,11 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/outernet-scrapbooknn">aboutdavid/outernet-scrapbooknn</a> @ April 19, 2024 at 2:24 PM:<br>
-Delete public/videos/error [レッドゾーン]-5BZLz21ZS_Y.mp4<br>
-<a href="https://github.com/aboutdavid/outernet-scrapbooknn/commit/7c8a62801633234d849540dbfafe361a60f30575">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/gotontfy">aboutdavid/gotontfy</a> @ April 20, 2024 at 3:25 AM:<br>
+Update instructions<br>
+<a href="https://github.com/aboutdavid/gotontfy/commit/908c292f3e083eb09fc5ef33cda130a92504497a">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutdavid/0shade">0shade</a>:<br>
-0shade: No more throwaway emails<br>
-Stars: 4 • Forks: 0 • JavaScript</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutdavid/quizlet2anki">quizlet2anki</a>:<br>
 Browser extension for downloading Quizlet sets as Anki flashcards<br>
@@ -38,6 +33,11 @@ Stars: 0 • Forks: 0 • HTML</p>
 monorepo of a mini intranet designed for the trail<br>
 Stars: 1 • Forks: 0 • Unknown</p>
 </li>
+<li>
+<p><a href="https://github.com/aboutdavid/gotontfy">gotontfy</a>:<br>
+gotify to <a href="http://ntfy.sh">ntfy.sh</a> proxy<br>
+Stars: 0 • Forks: 0 • JavaScript</p>
+</li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: April 19, 2024 at 8:08 PM (EST)</p>
+<p>Last updated on: April 20, 2024 at 8:09 PM (EST)</p>
