@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/oauth.hackclub.app">aboutdavid/oauth.hackclub.app</a> @ April 21, 2024 at 2:23 PM:<br>
-Merge branch 'main' of <a href="https://github.com/aboutdavid/oauth.hackclub.app">https://github.com/aboutdavid/oauth.hackclub.app</a><br>
-<a href="https://github.com/aboutdavid/oauth.hackclub.app/commit/f3e0a2a671a503b0dbabe14601de8c5f25112e99">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/threadlocker">aboutdavid/threadlocker</a> @ April 22, 2024 at 2:59 PM:<br>
+return if .env loaded<br>
+<a href="https://github.com/aboutdavid/threadlocker/commit/16dd6815e84d68f123d171836557ebd7cff1a241">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: April 21, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: April 22, 2024 at 8:09 PM (EST)</p>
