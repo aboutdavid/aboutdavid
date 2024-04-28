@@ -3,17 +3,11 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/obl-ong/resolutions">obl-ong/resolutions</a> @ April 25, 2024 at 7:27 PM:<br>
-Merge pull request #3 from aboutdavid/main</p>
-<p>Create use a systemd <a href="http://timer.md">timer.md</a><br>
-<a href="https://github.com/obl-ong/resolutions/commit/4409856f151cb23d9dc0ad421faaefc08461a250">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/orpheaux-ng">aboutdavid/orpheaux-ng</a> @ April 27, 2024 at 1:07 PM:<br>
+Inital commit<br>
+<a href="https://github.com/aboutdavid/orpheaux-ng/commit/9168875e9058d9a2b35e70e5f137e0960da3b856">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutdavid/quizlet2anki">quizlet2anki</a>:<br>
-Browser extension for downloading Quizlet sets as Anki flashcards<br>
-Stars: 0 • Forks: 0 • JavaScript</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutdavid/hcbmissingreceipts">hcbmissingreceipts</a>:<br>
 cURL you organization's missing receipts<br>
@@ -39,6 +33,11 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 gotify to <a href="http://ntfy.sh">ntfy.sh</a> proxy<br>
 Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
+<li>
+<p><a href="https://github.com/aboutdavid/orpheaux-ng">orpheaux-ng</a>:<br>
+Slack huddle music player<br>
+Stars: 1 • Forks: 0 • JavaScript</p>
+</li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: April 26, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: April 27, 2024 at 8:10 PM (EST)</p>
