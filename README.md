@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/orpheaux-ng">aboutdavid/orpheaux-ng</a> @ April 30, 2024 at 12:42 PM:<br>
-Wait until domcontentloaded<br>
-<a href="https://github.com/aboutdavid/orpheaux-ng/commit/225cb3927d1bd0800f83a6f1a543f225b31dab2b">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/orpheaux-ng">aboutdavid/orpheaux-ng</a> @ May 1, 2024 at 11:18 AM:<br>
+add yt-dlp ver, uptime, /play confirm, is booked<br>
+<a href="https://github.com/aboutdavid/orpheaux-ng/commit/16afcb08d6b2f9035ff11f753e0c2f5b95ef7787">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 2 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: April 30, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: May 1, 2024 at 8:09 PM (EST)</p>
