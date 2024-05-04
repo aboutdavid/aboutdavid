@@ -36,8 +36,8 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 <li>
 <p><a href="https://github.com/aboutdavid/orpheaux-ng">orpheaux-ng</a>:<br>
 Slack huddle music player<br>
-Stars: 2 • Forks: 0 • JavaScript</p>
+Stars: 3 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: May 2, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: May 3, 2024 at 8:08 PM (EST)</p>
