@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/sayonarachannel">aboutdavid/sayonarachannel</a> @ May 9, 2024 at 9:09 AM:<br>
-Remove undeclared variables<br>
-<a href="https://github.com/aboutdavid/sayonarachannel/commit/6eca6e84920ed1d4d19a4700ea99cd16d2396a05">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/threadlocker">aboutdavid/threadlocker</a> @ May 10, 2024 at 2:22 PM:<br>
+finish anoning admins<br>
+<a href="https://github.com/aboutdavid/threadlocker/commit/f2a480a4d6f3f94b7a11c0ee13eaa09953ead5f7">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 4 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: May 9, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: May 10, 2024 at 8:09 PM (EST)</p>
