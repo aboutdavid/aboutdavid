@@ -3,10 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/inbound">aboutdavid/inbound</a> @ May 17, 2024 at 6:49 PM:<br>
-Merge pull request #5 from techpixel/main</p>
-<p>Add me &amp; alex!!!<br>
-<a href="https://github.com/aboutdavid/inbound/commit/620909594749eb4ac8ae592fbac6c909466c92b7">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/inbound">aboutdavid/inbound</a> @ May 18, 2024 at 10:04 AM:<br>
+Update instructions<br>
+<a href="https://github.com/aboutdavid/inbound/commit/a43292b02db4738e76876571bb20c28e99c08aa2">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -41,4 +40,4 @@ Stars: 4 • Forks: 5 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: May 17, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: May 18, 2024 at 8:10 PM (EST)</p>
