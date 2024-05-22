@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/toriel">hackclub/toriel</a> @ May 20, 2024 at 5:16 PM:<br>
-Bump prisma version to 5.14.0 after lots of tests<br>
-<a href="https://github.com/hackclub/toriel/commit/ab29a9632b3c9381311a293a76d916f487398280">view this commit</a></p>
+<p><a href="https://github.com/hackclub/toriel">hackclub/toriel</a> @ May 21, 2024 at 7:41 PM:<br>
+Merge branch 'main' into contributing-md<br>
+<a href="https://github.com/hackclub/toriel/commit/2b0f746364a5db3050828847613db0787346ca5f">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 0 • Forks: 0 • HTML</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: May 20, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: May 21, 2024 at 8:09 PM (EST)</p>
