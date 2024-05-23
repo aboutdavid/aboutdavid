@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/toriel">hackclub/toriel</a> @ May 21, 2024 at 7:41 PM:<br>
-Merge branch 'main' into contributing-md<br>
-<a href="https://github.com/hackclub/toriel/commit/2b0f746364a5db3050828847613db0787346ca5f">view this commit</a></p>
+<p><a href="https://github.com/hackclub/toriel">hackclub/toriel</a> @ May 21, 2024 at 11:35 PM:<br>
+Merge branch 'main' into grafana<br>
+<a href="https://github.com/hackclub/toriel/commit/8592ef292fcb42477778bbfabc74ac451b9daaae">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 0 • Forks: 0 • HTML</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: May 21, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: May 22, 2024 at 8:09 PM (EST)</p>
