@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/toriel">hackclub/toriel</a> @ May 26, 2024 at 12:04 PM:<br>
-Merge branch 'add-recent-channel-suggestions' of <a href="https://github.com/hackclub/toriel">https://github.com/hackclub/toriel</a> into add-recent-channel-suggestions<br>
-<a href="https://github.com/hackclub/toriel/commit/0ced57a224f05111a99bdcacf1e5ef74ecc8aec4">view this commit</a></p>
+<p><a href="https://github.com/hackclub/toriel">hackclub/toriel</a> @ May 27, 2024 at 3:17 PM:<br>
+Add electronics to transcript<br>
+<a href="https://github.com/hackclub/toriel/commit/7b638fc257735e5d08a3ff9c3b5469f15d96f4cb">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: May 26, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: May 27, 2024 at 8:09 PM (EST)</p>
