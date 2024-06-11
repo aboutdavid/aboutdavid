@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/toriel">hackclub/toriel</a> @ June 8, 2024 at 8:52 AM:<br>
-Log in Grafana when user is invited manually<br>
-<a href="https://github.com/hackclub/toriel/commit/34b5b8be8c0d92e9bd0547967691cb10ba4d2edc">view this commit</a></p>
+<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ June 10, 2024 at 4:49 PM:<br>
+allow for non-socketed use<br>
+<a href="https://github.com/hackclub/channel-directory/commit/c31607030f5abbf696752ad7ab9f09389dcca8bf">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: June 9, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: June 10, 2024 at 8:09 PM (EST)</p>
