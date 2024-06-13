@@ -3,16 +3,11 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ June 11, 2024 at 5:26 PM:<br>
-update version for prettier<br>
-<a href="https://github.com/hackclub/channel-directory/commit/850df8534a5a6b1465fa80cb63573e43d4e22826">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/hour-review-bot">aboutdavid/hour-review-bot</a> @ June 12, 2024 at 4:02 PM:<br>
+add checks if passed<br>
+<a href="https://github.com/aboutdavid/hour-review-bot/commit/018dc09d03103e9872567eac23d270260764a607">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutdavid/gotontfy">gotontfy</a>:<br>
-gotify to <a href="http://ntfy.sh">ntfy.sh</a> proxy<br>
-Stars: 1 • Forks: 0 • JavaScript</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutdavid/orpheaux-ng">orpheaux-ng</a>:<br>
 Slack huddle music player<br>
@@ -38,6 +33,11 @@ Stars: 0 • Forks: 0 • HTML</p>
 Converting times in Slack<br>
 Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
+<li>
+<p><a href="https://github.com/aboutdavid/hour-review-bot">hour-review-bot</a>:<br>
+Hour review bot makes hour reviewing easy 👍🤯<br>
+Stars: 0 • Forks: 0 • JavaScript</p>
+</li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: June 11, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: June 12, 2024 at 8:09 PM (EST)</p>
