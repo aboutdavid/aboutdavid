@@ -3,16 +3,11 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ June 17, 2024 at 5:00 PM:<br>
-directory: return of the blips<br>
-<a href="https://github.com/hackclub/channel-directory/commit/0da13d39337db2e50d98f07924232bc08b1ec850">view this commit</a></p>
+<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ June 18, 2024 at 3:58 PM:<br>
+filter private channels<br>
+<a href="https://github.com/hackclub/channel-directory/commit/b24ca997352d52493f85e93bb4329a7ffe6567b2">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
-<li>
-<p><a href="https://github.com/aboutdavid/sayonarachannel">sayonarachannel</a>:<br>
-Removes you from channels which you have been mass-added to on Slack<br>
-Stars: 4 • Forks: 0 • JavaScript</p>
-</li>
 <li>
 <p><a href="https://github.com/aboutdavid/inbound">inbound</a>:<br>
 Slack flight board to see who gets to a hackathon (or whatever) when and at what time.<br>
@@ -38,6 +33,11 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 Checking automatic laundry machines to see if they are open<br>
 Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
+<li>
+<p><a href="https://github.com/aboutdavid/identicate">identicate</a>:<br>
+ACL for Slack Bots<br>
+Stars: 0 • Forks: 0 • JavaScript</p>
+</li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: June 17, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: June 18, 2024 at 8:09 PM (EST)</p>
