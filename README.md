@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/identicate">aboutdavid/identicate</a> @ June 19, 2024 at 6:04 PM:<br>
-hack hour: make clients (this too wayy to long)<br>
-<a href="https://github.com/aboutdavid/identicate/commit/a148d7c3038703064c227eb7d3c724d2b7b4350c">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/hour-review-bot">aboutdavid/hour-review-bot</a> @ June 19, 2024 at 10:58 PM:<br>
+number -&gt; string<br>
+<a href="https://github.com/aboutdavid/hour-review-bot/commit/3779b6eb367169aab70fa6d2841791d85f8a8865">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: June 19, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: June 20, 2024 at 8:09 PM (EST)</p>
