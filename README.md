@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ June 24, 2024 at 4:34 PM:<br>
-remove null messages + fix space + rm events<br>
-<a href="https://github.com/hackclub/channel-directory/commit/46de68bb5961447b4a491d0a6d55c155531a7a0c">view this commit</a></p>
+<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ June 25, 2024 at 4:12 PM:<br>
+fix redundant code line splitting<br>
+<a href="https://github.com/hackclub/channel-directory/commit/6d24a27266773af485617b5dacc983faa97fab70">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: June 24, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: June 25, 2024 at 8:09 PM (EST)</p>
