@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/hour-review-bot">aboutdavid/hour-review-bot</a> @ June 27, 2024 at 4:32 PM:<br>
-remove users<br>
-<a href="https://github.com/aboutdavid/hour-review-bot/commit/da52ad19ddfe363ba314fe94f3f8d79fd25b405d">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/dns">aboutdavid/dns</a> @ June 28, 2024 at 2:38 PM:<br>
+Add <a href="http://librarian.hackclub.com">librarian.hackclub.com</a><br>
+<a href="https://github.com/aboutdavid/dns/commit/d882262bce3d7ebf5832d11c476a199fa5ea4304">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: June 27, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: June 28, 2024 at 8:09 PM (EST)</p>
