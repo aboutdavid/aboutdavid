@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ June 29, 2024 at 7:52 PM:<br>
-omg this is annoying please just don't make me look bad<br>
-<a href="https://github.com/hackclub/channel-directory/commit/5716ef53a41159ae03e99e80587d93fab6c21d09">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/dns">aboutdavid/dns</a> @ June 30, 2024 at 1:38 AM:<br>
+Merge branch 'main' into main<br>
+<a href="https://github.com/aboutdavid/dns/commit/ce4a0a708c1b3d2393db6530fa3ec050cf3533cb">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: June 29, 2024 at 8:10 PM (EST)</p>
+<p>Last updated on: June 30, 2024 at 8:11 PM (EST)</p>
