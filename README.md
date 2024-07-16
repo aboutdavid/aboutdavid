@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ July 10, 2024 at 10:51 PM:<br>
-fmt + channel-directory<br>
-<a href="https://github.com/hackclub/channel-directory/commit/0b33a2cb87a7fce00295ea155065904f09b44a97">view this commit</a></p>
+<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ July 15, 2024 at 1:35 PM:<br>
+fix formatting + move to pnpm<br>
+<a href="https://github.com/hackclub/channel-directory/commit/cd718cd13fd9e2340b2057233427ce6b1b6e2aef">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: July 14, 2024 at 8:10 PM (EST)</p>
+<p>Last updated on: July 15, 2024 at 8:10 PM (EST)</p>
