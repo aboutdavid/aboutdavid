@@ -9,11 +9,6 @@ Add longest thread, remove cm<br>
 <h3>recent github repos</h3>
 <ul>
 <li>
-<p><a href="https://github.com/aboutdavid/david.com.se">david.com.se</a>:<br>
-boba drop<br>
-Stars: 0 • Forks: 0 • HTML</p>
-</li>
-<li>
 <p><a href="https://github.com/aboutdavid/timeist">timeist</a>:<br>
 Converting times in Slack<br>
 Stars: 1 • Forks: 0 • JavaScript</p>
@@ -38,6 +33,11 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 API to ensure users went through the Hack Club verification flow<br>
 Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
+<li>
+<p><a href="https://github.com/aboutdavid/yatcm">yatcm</a>:<br>
+Yet another tilde caddy manager<br>
+Stars: 0 • Forks: 0 • JavaScript</p>
+</li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: August 22, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: August 23, 2024 at 8:09 PM (EST)</p>
