@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ August 22, 2024 at 5:41 PM:<br>
-Add longest thread, remove cm<br>
-<a href="https://github.com/hackclub/channel-directory/commit/a0f1c089eaeb0f96608f55b92faaa154e791c504">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/yatcm">aboutdavid/yatcm</a> @ August 23, 2024 at 8:22 PM:<br>
+Explain what yatcm does in readme<br>
+<a href="https://github.com/aboutdavid/yatcm/commit/087c5d69a22c1935e8ce714a5ee3d6f53fc84049">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: August 23, 2024 at 8:09 PM (EST)</p>
+<p>Last updated on: August 24, 2024 at 8:11 PM (EST)</p>
