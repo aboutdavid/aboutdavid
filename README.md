@@ -36,8 +36,8 @@ Stars: 0 • Forks: 0 • JavaScript</p>
 <li>
 <p><a href="https://github.com/aboutdavid/yatcm">yatcm</a>:<br>
 Yet another tilde caddy manager<br>
-Stars: 0 • Forks: 0 • JavaScript</p>
+Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: August 24, 2024 at 8:11 PM (EST)</p>
+<p>Last updated on: August 25, 2024 at 8:10 PM (EST)</p>
