@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/yatcm">aboutdavid/yatcm</a> @ August 23, 2024 at 8:22 PM:<br>
-Explain what yatcm does in readme<br>
-<a href="https://github.com/aboutdavid/yatcm/commit/087c5d69a22c1935e8ce714a5ee3d6f53fc84049">view this commit</a></p>
+<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ August 26, 2024 at 8:30 AM:<br>
+make cms actually control channels<br>
+<a href="https://github.com/hackclub/channel-directory/commit/88da9f941ef9b89faba53088a3d8cb3f9361a403">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: August 25, 2024 at 8:10 PM (EST)</p>
+<p>Last updated on: August 26, 2024 at 8:10 PM (EST)</p>
