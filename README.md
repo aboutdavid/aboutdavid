@@ -3,9 +3,10 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ September 11, 2024 at 12:06 PM:<br>
-Merge branch 'main' of <a href="http://github.com">github.com</a>:hackclub/channel-directory<br>
-<a href="https://github.com/hackclub/channel-directory/commit/03eccc3903d12c82facc0f2681cd0b8c6ffb304b">view this commit</a></p>
+<p><a href="https://github.com/hackclub/nest">hackclub/nest</a> @ September 11, 2024 at 10:18 PM:<br>
+Merge pull request #69 from hackclub/add-reload-command</p>
+<p>Add a reload command for admins<br>
+<a href="https://github.com/hackclub/nest/commit/a967a9db58c953522c0e35921ad6a488100b0d65">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +41,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: September 11, 2024 at 8:10 PM (EST)</p>
+<p>Last updated on: September 12, 2024 at 8:10 PM (EST)</p>
