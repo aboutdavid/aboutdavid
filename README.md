@@ -3,10 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/nest">hackclub/nest</a> @ September 11, 2024 at 10:18 PM:<br>
-Merge pull request #69 from hackclub/add-reload-command</p>
-<p>Add a reload command for admins<br>
-<a href="https://github.com/hackclub/nest/commit/a967a9db58c953522c0e35921ad6a488100b0d65">view this commit</a></p>
+<p><a href="https://github.com/hackclub/nest">hackclub/nest</a> @ September 14, 2024 at 2:07 PM:<br>
+update error message<br>
+<a href="https://github.com/hackclub/nest/commit/0078c98ba70ac499442d6e54e2030cd3b0e7e767">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -41,4 +40,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: September 12, 2024 at 8:10 PM (EST)</p>
+<p>Last updated on: September 14, 2024 at 8:12 PM (EST)</p>
