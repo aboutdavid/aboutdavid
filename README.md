@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ September 22, 2024 at 3:12 AM:<br>
-yeet newlines from library<br>
-<a href="https://github.com/hackclub/channel-directory/commit/0bfea0dd2b83b69f53d590a8429ab92a8aca6914">view this commit</a></p>
+<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ September 24, 2024 at 10:07 PM:<br>
+Fix timeline issue forever<br>
+<a href="https://github.com/hackclub/channel-directory/commit/75775c87090494e20277baecaa3af93c8839e1b7">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: September 24, 2024 at 8:11 PM (EST)</p>
+<p>Last updated on: September 25, 2024 at 8:10 PM (EST)</p>
