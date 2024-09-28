@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/threadlocker">aboutdavid/threadlocker</a> @ September 25, 2024 at 9:07 PM:<br>
-api so fun<br>
-<a href="https://github.com/aboutdavid/threadlocker/commit/bb21e80549e232adafbd236b008b449bd87a16f9">view this commit</a></p>
+<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ September 27, 2024 at 3:02 AM:<br>
+add bin/forge<br>
+<a href="https://github.com/hackclub/channel-directory/commit/a84e1874d1a4eec6307cb296ac0cf365c7e3bb14">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: September 26, 2024 at 8:11 PM (EST)</p>
+<p>Last updated on: September 27, 2024 at 8:11 PM (EST)</p>
