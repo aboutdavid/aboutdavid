@@ -3,9 +3,9 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/channel-directory">hackclub/channel-directory</a> @ September 27, 2024 at 3:02 AM:<br>
-add bin/forge<br>
-<a href="https://github.com/hackclub/channel-directory/commit/a84e1874d1a4eec6307cb296ac0cf365c7e3bb14">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/counterspell">aboutdavid/counterspell</a> @ September 29, 2024 at 4:56 PM:<br>
+add Atlanta<br>
+<a href="https://github.com/aboutdavid/counterspell/commit/338cb2bd41216d6e4a640f26a8e4073357b59ba2">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +40,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: September 28, 2024 at 8:12 PM (EST)</p>
+<p>Last updated on: September 29, 2024 at 8:11 PM (EST)</p>
