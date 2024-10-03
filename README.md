@@ -3,10 +3,14 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/aboutdavid/counterspell">aboutdavid/counterspell</a> @ October 1, 2024 at 1:02 AM:<br>
-Readd Atlanta, GA</p>
-<p>It was overridden by e8488623793dd81b1733d08da8f036290d2e89a9 when #5 corrected it<br>
-<a href="https://github.com/aboutdavid/counterspell/commit/08311a7bc7221bcfda4dd8f787cb307fa460f05f">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/counterspell">aboutdavid/counterspell</a> @ October 2, 2024 at 12:24 PM:<br>
+Add Counterspell Atlanta</p>
+<p>Remove Atlanta from central list</p>
+<p>Co-authored-by: Sam Liu &lt;sam@samliu.dev&gt;</p>
+<p>Fix router</p>
+<p>Co-authored-by: Sam Liu &lt;sam@samliu.dev&gt;</p>
+<p>move import<br>
+<a href="https://github.com/aboutdavid/counterspell/commit/2bbfb3c0d5899ab1aa461ea60bc3d9d7f941dab5">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -41,4 +45,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: October 1, 2024 at 8:11 PM (EST)</p>
+<p>Last updated on: October 2, 2024 at 8:11 PM (EST)</p>
