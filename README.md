@@ -3,9 +3,10 @@
 <p>a lot of my code is <strong>open-source</strong> which is usually located here on <strong>github</strong></p>
 <p>you can contact me via <a href="mailto:aboutdavid@protonmail.com">email</a> or via <a href="https://social.dino.icu/@david">mastodon</a></p>
 <h3>latest commit</h3>
-<p><a href="https://github.com/hackclub/librarian">hackclub/librarian</a> @ October 14, 2024 at 1:33 PM:<br>
-dep clean up + redis fix + accessibility fix<br>
-<a href="https://github.com/hackclub/librarian/commit/c126b53c3ca39e01df1d58dafc77d9f17d440e69">view this commit</a></p>
+<p><a href="https://github.com/aboutdavid/blot">aboutdavid/blot</a> @ October 15, 2024 at 1:55 AM:<br>
+add blot captcha</p>
+<p>add snapshots<br>
+<a href="https://github.com/aboutdavid/blot/commit/b19a2a27c400fc251cc4ab8e16fc7fa1e71abf84">view this commit</a></p>
 <h3>recent github repos</h3>
 <ul>
 <li>
@@ -40,4 +41,4 @@ Stars: 1 • Forks: 0 • JavaScript</p>
 </li>
 </ul>
 <p><br><br></p>
-<p>Last updated on: October 14, 2024 at 8:11 PM (EST)</p>
+<p>Last updated on: October 15, 2024 at 8:11 PM (EST)</p>
